@@ -1,3 +1,7 @@
+# heavy folders
+gis/
+
+
 # History files
 .Rhistory
 .Rapp.history
