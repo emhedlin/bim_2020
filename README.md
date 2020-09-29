@@ -1,4 +1,4 @@
-# Report for EDI report to baffinland
+# Analysis for EDI report to baffinland
 
 ### Current status
 * using R to join 2020 surveys (data/2020_survey.csv) with data sheet used in last years report (data/2012-2020-occ.csv)
