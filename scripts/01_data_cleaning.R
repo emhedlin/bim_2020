@@ -31,10 +31,19 @@ full <- full %>% filter(!SiteID %in% c(5, 23, 52, 73, 104, 117))
   #pefa = 48 
   #rlha = 11
 occ <- full %>% select(1:4, 19:42) 
-occ <- occ %>% pivot_longer(cols = 2:ncol(occ)) %>% mutate(year = str_sub(name, 2,3), survey = str_sub(name, 5,5)) %>%
+occ <- occ %>% pivot_longer(cols = 2:ncol(occ)) %>% mutate(year = str_sub(name, 2,3), survey = str_sub(name, 5,5)) %>% 
+  mutate(value = ifelse(value == "not detected" | is.na(value), 0, value)) %>%
   mutate(pefa = ifelse(value == "PEFA", 1, 0), rlha = ifelse(value == "RLHA", 1, 0))
-occ %>% filter(year == "13" & SiteID == 10)
-occ %>% group_by(SiteID, year) %>% summarize(occ = max(pefa, na.rm = TRUE)) %>% summarize(sum = sum(occ, na.rm = TRUE))
+
+# lists the total pefa sites occupied in each year. Discrepancy with report, and this needs to be looked at year by year.
+occ %>% group_by(SiteID, year) %>% summarize(occ = max(pefa > 0, na.rm = TRUE)) %>% ungroup() %>% 
+  group_by(year) %>% summarize(sum = sum(occ, na.rm = TRUE)) 
+
+View(occ %>% filter(SiteID == "2"))
+  
+
+range(grp$pefa, na.rm = TRUE)
+
 
 pefa <- ifelse(occ[,2:ncol(occ)] == "PEFA", 1, 0) # convert pefa occupied to binary
 
