@@ -1,6 +1,6 @@
 # heavy folders
 gis/
-
+*.Rproj
 
 # History files
 .Rhistory
