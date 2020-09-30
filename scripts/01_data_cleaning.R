@@ -39,22 +39,9 @@ occ <- occ %>% pivot_longer(cols = 2:ncol(occ)) %>% mutate(year = str_sub(name, 
 occ %>% group_by(SiteID, year) %>% summarize(occ = max(pefa > 0, na.rm = TRUE)) %>% ungroup() %>% 
   group_by(year) %>% summarize(sum = sum(occ, na.rm = TRUE)) 
 
-View(occ %>% filter(SiteID == "2"))
-  
 
-range(grp$pefa, na.rm = TRUE)
-
-
-pefa <- ifelse(occ[,2:ncol(occ)] == "PEFA", 1, 0) # convert pefa occupied to binary
+# lists the total rlha sites occupied in each year. Discrepancy with report, and this needs to be looked at year by year.
+occ %>% group_by(SiteID, year) %>% summarize(occ = max(rlha > 0, na.rm = TRUE)) %>% ungroup() %>% 
+  group_by(year) %>% summarize(sum = sum(occ, na.rm = TRUE)) 
 
 
-?pivot_longer
-pefa <- as.data.frame(pefa)
-
-pefa <- cbind(pefa, sum = rowSums(pefa, na.rm = "TRUE")) # tally occupancy across years
-pefa <- cbind(dat[,1], pefa) # add site ID's and locations back in
-pefa <- subset(pefa, sum !=0) # drop sites that were never occupied 2012-2019
-pefa <- inner_join(pefa, md, by = "SiteID")
-pefa <- inner_join(pefa, dnon, by = "SiteID")
-pefa <- pefa %>% dplyr::select(-sum)
-dim(pefa) # 94 sites
