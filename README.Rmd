@@ -1,0 +1,62 @@
+---
+title: "Work for the 2020 BIM report"
+author: "Erik Hedlin"
+date: "29/09/2020"
+output: github_document
+---
+
+
+```{r, include = FALSE}
+
+# example of how to include ghost code
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  eval = FALSE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+library(knitr)
+```
+
+```{r, include = FALSE}
+library(tidyverse)
+
+hist <- read_csv("data/2012-2020_occ.csv")
+current <- read_csv("data/2020_survey.csv") 
+
+
+```
+
+```{r, include = FALSE}
+full <- current %>% left_join(hist, by= "SiteID")
+
+# filter out sites not included in 2019 analysis because they haven't been occupied since 2011
+full <- full %>% filter(!SiteID %in% c(5, 23, 52, 73, 104, 117)) 
+
+
+occ <- full %>% select(1:4, 19:42) 
+occ <- occ %>% pivot_longer(cols = 2:ncol(occ)) %>% mutate(year = str_sub(name, 2,3), survey = str_sub(name, 5,5)) %>% 
+  mutate(value = ifelse(value == "not detected" | is.na(value), 0, value)) %>%
+  mutate(pefa = ifelse(value == "PEFA", 1, 0), rlha = ifelse(value == "RLHA", 1, 0))
+
+```
+
+
+## Current status
+
+```{r, include = FALSE}
+pefa_summary <- occ %>% group_by(SiteID, year) %>% summarize(occ = max(pefa > 0, na.rm = TRUE)) %>% ungroup() %>% 
+  group_by(year) %>% summarize(pefa_sites = sum(occ, na.rm = TRUE)) 
+
+
+```
+
+```{r}
+knitr::kable(pefa_summary)
+```
+
+
+Summing the occupied sites for PEFA across years (2012 - 2020) reveals some differences between the data and what's been reported. I compared the data used for analysis with the historical database spreadsheet (both in the data folder), and one of the PEFA sites in 2017 was incorrectly entered as RLHA. Some errors obviously exist and we'll now have to go through each year again to find where the errors are.
+
+
