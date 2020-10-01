@@ -26,19 +26,20 @@ full <- full %>% filter(!SiteID %in% c(5, 23, 52, 73, 104, 117))
 
 
 
-# double check numbers with last years report -----------------------------
+# tables -----------------------------
 
-occ <- full %>% select(1:4, 20:42) 
+occ <- full %>% select(1:4, 6:7, 20:42, -X35) 
+write.csv(occ, "data/2012-2020.csv")
 occ <- occ %>% pivot_longer(cols = 2:ncol(occ)) %>% mutate(year = str_sub(name, 2,3), survey = str_sub(name, 5,5)) %>% 
   mutate(value = ifelse(value == "not detected" | is.na(value), 0, value)) %>%
   mutate(pefa = ifelse(value == "PEFA", 1, 0), rlha = ifelse(value == "RLHA", 1, 0))
 
-# lists the total pefa sites occupied in each year. Discrepancy with report, and this needs to be looked at year by year.
+# total pefa sites occupied in each year. 
 occ %>% group_by(SiteID, year) %>% summarize(occ = max(pefa > 0, na.rm = TRUE)) %>% ungroup() %>% 
   group_by(year) %>% summarize(sum = sum(occ, na.rm = TRUE)) 
 
 
-# lists the total rlha sites occupied in each year. Discrepancy with report, and this needs to be looked at year by year.
+# total rlha sites occupied in each year.
 occ %>% group_by(SiteID, year) %>% summarize(occ = max(rlha > 0, na.rm = TRUE)) %>% ungroup() %>% 
   group_by(year) %>% summarize(sum = sum(occ, na.rm = TRUE)) 
 
