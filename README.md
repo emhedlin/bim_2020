@@ -1,14 +1,8 @@
 Work for the 2020 BIM report
 ================
-Erik Hedlin
-29/09/2020
 
-## Current status
-
-``` r
-knitr::kable(pefa_summary)
-```
-
+### Current Status
+#### Sep 29
 Summing the occupied sites for PEFA across years (2012 - 2020) reveals
 some differences between the data and what’s been reported. I compared
 the data used for analysis with the historical database spreadsheet
