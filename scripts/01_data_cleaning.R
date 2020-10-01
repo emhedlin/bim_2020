@@ -5,6 +5,10 @@ library(tidyverse)
 
 hist <- read_csv("data/2012-2020_occ.csv")
 current <- read_csv("data/2020_survey.csv") 
+db <- read_csv("data/2019_BIM_db.csv")
+
+db_occ <- db %>% select(1, 66, 74, 82, 90, 98, 106, 114)
+
 
 
 
@@ -24,13 +28,7 @@ full <- full %>% filter(!SiteID %in% c(5, 23, 52, 73, 104, 117))
 
 # double check numbers with last years report -----------------------------
 
-#2019
-  #pefa = 39
-  #rlha = 11
-#2018 
-  #pefa = 48 
-  #rlha = 11
-occ <- full %>% select(1:4, 19:42) 
+occ <- full %>% select(1:4, 20:42) 
 occ <- occ %>% pivot_longer(cols = 2:ncol(occ)) %>% mutate(year = str_sub(name, 2,3), survey = str_sub(name, 5,5)) %>% 
   mutate(value = ifelse(value == "not detected" | is.na(value), 0, value)) %>%
   mutate(pefa = ifelse(value == "PEFA", 1, 0), rlha = ifelse(value == "RLHA", 1, 0))
@@ -45,3 +43,19 @@ occ %>% group_by(SiteID, year) %>% summarize(occ = max(rlha > 0, na.rm = TRUE)) 
   group_by(year) %>% summarize(sum = sum(occ, na.rm = TRUE)) 
 
 
+
+# n years occupied by site ------------------------------------------------
+occ %>% group_by(SiteID, year) %>% summarize(occ = max(pefa > 0, na.rm = TRUE)) %>% ungroup() %>%
+  group_by(SiteID) %>% summarize(sum = sum(occ, na.rm = TRUE)) %>% arrange(desc(sum))
+
+
+
+
+
+
+# compare 2019 data with db -----------------------------------------------
+
+db_occ[,2:ncol(db_occ)] <- ifelse(db_occ[,2:ncol(db_occ)] == "PEFA", 1, 0)
+
+
+       
