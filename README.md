@@ -14,7 +14,6 @@ have to go through each year again to find where the errors are.
 ### File structure
 
 ```bash
-|
 └── data
    ├── 2012-2019_report.csv  <- data used in 2019 report
    ├── 2012-2020_report.csv  <- 2020 data added to the 2019 report data
