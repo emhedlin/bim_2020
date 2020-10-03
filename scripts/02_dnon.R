@@ -19,8 +19,8 @@ library(nuwcru)
 # Load Data ---------------------------------------------------------------
 
 
-dat  <- read_csv("data/2012-2019_occ-narmAFQ.csv")
-md <- dat$D2D
+dat  <- read_csv("data/2012-2020_report.csv") %>% select(-X1)
+
 
 pefa <- ifelse(dat[1:162,16:39] == "PEFA", 1, 0) # convert pefa occupied to binary
 rlha <- ifelse(dat[1:162,16:39] == "RLHA", 1, 0) # convert rlha occupied to binary
@@ -70,13 +70,38 @@ rapt <- ifelse(dat[1:162,16:39] == "GYRF" |
 # one with all available sites -> all
 
 # chop our occupied sites list into years, and then calculate distances
+ncol(dat)
 
+occ <- dat %>% select(-Lat_DD, -Lon_DD) %>% pivot_longer(cols = 2:26) %>% mutate(year = str_sub(name, 2,3), survey = str_sub(name, 5,5)) %>% 
+  mutate(value = ifelse(value == "not detected" | is.na(value), 0, value)) %>%
+  mutate(pefa = ifelse(value == "PEFA", 1, 0), rlha = ifelse(value == "RLHA", 1, 0)) %>% select(-name, -value) %>%
+  left_join(dat %>% select(SiteID, Lat_DD, Lon_DD), by = "SiteID")
 
+year_split <- occ %>% group_by(SiteID, year) %>% summarize(occ = max(pefa > 0, na.rm = TRUE)) %>% ungroup() %>% left_join(dat %>% select(SiteID, Lat_DD, Lon_DD), by = "SiteID")
+year_split <- split(year_split, year_split$year)
+year_split
 
+for (i in 1:length(year_split)){
+  xyAll <- SpatialPointsDataFrame(
+    matrix(c(year_split[[i]]$Lat_DD, year_split[[i]]$Lon_DD), ncol=2), data.frame(ID=seq(1:nrow(year_split[[i]]))),
+    proj4string=CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
+  
+  xyOcc <- SpatialPointsDataFrame(
+    matrix(c(subset(year_split[[1]], year_split[[1]]$occ == 1)$Lat_DD, subset(year_split[[i]], year_split[[i]]$occ == 1)$Lat_DD), ncol=2), data.frame(ID=seq(1:nrow(subset(year_split[[i]], year_split[[i]]$occ == 1)))),
+    proj4string=CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
+  
+  mdist <- distm(xyAll, xyOcc)
+  min.d <- apply(mdist, 1, function(x) sort(x)[2])
+  year_split[[i]]$min_d <- min.d
+  }
+
+year_split
+subset(year_split[[1]], year_split[[1]]$occ == 1)$Lat_DD
 
 # **2012 ------------------------------------------------------------------
 # calculate distance to nearest occupied neighbour for 2012
-occ2012 <- filter(occ, Year == "2012")
+occ2012 <- filter(occ, year == "12" & pefa > 0)
+all     <- filter(occ, year == "12") %>% group_by(SiteID, Lat_DD, Lon_DD) %>% summarize(occ = max(pefa, na.rm = TRUE))
 
 xyAll12 <- SpatialPointsDataFrame(
   matrix(c(all$Lat_DD, all$Lon_DD), ncol=2), data.frame(ID=seq(1:nrow(all))),
@@ -89,7 +114,7 @@ xyOcc12 <- SpatialPointsDataFrame(
 mdist.12 <- distm(xyAll12, xyOcc12)
 min.d.12 <- apply(mdist.12, 1, function(x) sort(x)[2])
 all$y12 <- min.d.12
-
+View(all)
 
 # **2013 ------------------------------------------------------------------
 # calculate distance to nearest occupied neighbour for 2013
