@@ -84,6 +84,8 @@ year_split <- occ %>% group_by(SiteID, year) %>% summarize(occ = max(pefa > 0, n
 year_split <- split(year_split, year_split$year)
 
 
+
+# Create loop to calculate dnon for each year
 for (i in 1:length(year_split)){
   
   occ <-  year_split[[i]] %>% filter(occ > 0)
@@ -106,153 +108,21 @@ for (i in 1:length(year_split)){
 year_split
 subset(year_split[[1]], year_split[[1]]$occ == 1)$Lat_DD
 
-# **2012 ------------------------------------------------------------------
-# calculate distance to nearest occupied neighbour for 2012
-occ2012 <- filter(occ, year == "12" & pefa > 0) %>% group_by(SiteID, Lat_DD, Lon_DD) %>% summarize(occ = max(pefa, na.rm = TRUE))
-all     <- filter(occ, year == "12") %>% group_by(SiteID, Lat_DD, Lon_DD) %>% summarize(occ = max(pefa, na.rm = TRUE))
-
-xyAll12 <- SpatialPointsDataFrame(
-  matrix(c(all$Lat_DD, all$Lon_DD), ncol=2), data.frame(ID=seq(1:nrow(all))),
-  proj4string=CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
-
-xyOcc12 <- SpatialPointsDataFrame(
-  matrix(c(occ2012$Lat_DD,occ2012$Lon_DD), ncol=2), data.frame(ID=seq(1:nrow(occ2012))),
-  proj4string=CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
-
-mdist.12 <- distm(xyAll12, xyOcc12)
-min.d.12 <- apply(mdist.12, 1, function(x) sort(x)[2])
-all$y12 <- min.d.12
-View(all)
-
-# **2013 ------------------------------------------------------------------
-# calculate distance to nearest occupied neighbour for 2013
-occ2013 <- filter(occ, Year == "2013")
-
-xyAll13 <- SpatialPointsDataFrame(
-  matrix(c(all$Lat_DD, all$Lon_DD), ncol=2), data.frame(ID=seq(1:nrow(all))),
-  proj4string=CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
-
-xyOcc13 <- SpatialPointsDataFrame(
-  matrix(c(occ2013$Lat_DD,occ2013$Lon_DD), ncol=2), data.frame(ID=seq(1:nrow(occ2013))),
-  proj4string=CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
-
-mdist.13 <- distm(xyAll13, xyOcc13)
-min.d.13 <- apply(mdist.13, 1, function(x) sort(x)[2])
-all$y13 <- min.d.13
 
 
-
-# **2014 --------------------------------------------------------------------
-# calculate distance to nearest occupied neighbour for 2014
-occ2014 <- filter(occ, Year == "2014")
-
-xyAll14 <- SpatialPointsDataFrame(
-  matrix(c(all$Lat_DD, all$Lon_DD), ncol=2), data.frame(ID=seq(1:nrow(all))),
-  proj4string=CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
-
-xyOcc14 <- SpatialPointsDataFrame(
-  matrix(c(occ2014$Lat_DD,occ2014$Lon_DD), ncol=2), data.frame(ID=seq(1:nrow(occ2014))),
-  proj4string=CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
-
-mdist.14 <- distm(xyAll14, xyOcc14)
-min.d.14 <- apply(mdist.14, 1, function(x) sort(x)[2])
-all$y14 <- min.d.14
-
-
-# **2015 ------------------------------------------------------------------
-# calculate distance to nearest occupied neighbour for 2015
-occ2015 <- filter(occ, Year == "2015")
-
-xyAll15 <- SpatialPointsDataFrame(
-  matrix(c(all$Lat_DD, all$Lon_DD), ncol=2), data.frame(ID=seq(1:nrow(all))),
-  proj4string=CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
-
-xyOcc15 <- SpatialPointsDataFrame(
-  matrix(c(occ2015$Lat_DD,occ2015$Lon_DD), ncol=2), data.frame(ID=seq(1:nrow(occ2015))),
-  proj4string=CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
-
-mdist.15 <- distm(xyAll15, xyOcc15)
-min.d.15 <- apply(mdist.15, 1, function(x) sort(x)[2])
-all$y15 <- min.d.15
-
-
-# **2016 ------------------------------------------------------------------
-# calculate distance to nearest occupied neighbour for 2016
-occ2016 <- filter(occ, Year == "2016")
-
-xyAll16 <- SpatialPointsDataFrame(
-  matrix(c(all$Lat_DD, all$Lon_DD), ncol=2), data.frame(ID=seq(1:nrow(all))),
-  proj4string=CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
-
-xyOcc16 <- SpatialPointsDataFrame(
-  matrix(c(occ2016$Lat_DD,occ2016$Lon_DD), ncol=2), data.frame(ID=seq(1:nrow(occ2016))),
-  proj4string=CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
-
-mdist.16 <- distm(xyAll16, xyOcc16)
-min.d.16 <- apply(mdist.16, 1, function(x) sort(x)[2])
-all$y16 <- min.d.16
-
-
-# **2017 ------------------------------------------------------------------
-# calculate distance to nearest occupied neighbour for 2017
-occ2017 <- filter(occ, Year == "2017")
-
-xyAll17 <- SpatialPointsDataFrame(
-  matrix(c(all$Lat_DD, all$Lon_DD), ncol=2), data.frame(ID=seq(1:nrow(all))),
-  proj4string=CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
-
-xyOcc17 <- SpatialPointsDataFrame(
-  matrix(c(occ2017$Lat_DD,occ2017$Lon_DD), ncol=2), data.frame(ID=seq(1:nrow(occ2017))),
-  proj4string=CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
-
-mdist.17 <- distm(xyAll17, xyOcc17)
-min.d.17 <- apply(mdist.17, 1, function(x) sort(x)[2])
-all$y17 <- min.d.17
-
-
-# **2018 ------------------------------------------------------------------
-# calculate distance to nearest occupied neighbour for 2018
-occ2018 <- filter(occ, Year == "2018") # triplicated entries due to three surveys
-occ2018 <- distinct(occ2018, SiteID, .keep_all = TRUE)
-
-xyAll18 <- SpatialPointsDataFrame(
-  matrix(c(all$Lat_DD, all$Lon_DD), ncol=2), data.frame(ID=seq(1:nrow(all))),
-  proj4string=CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
-
-xyOcc18 <- SpatialPointsDataFrame(
-  matrix(c(occ2018$Lat_DD,occ2018$Lon_DD), ncol=2), data.frame(ID=seq(1:nrow(occ2018))),
-  proj4string=CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
-
-mdist.18 <- distm(xyAll18, xyOcc18)
-min.d.18 <- apply(mdist.18, 1, function(x) sort(x)[2])
-all$y18 <- min.d.18
-
-
-# **2019 ------------------------------------------------------------------
-# calculate distance to nearest occupied neighbour for 2019
-occ2019 <- filter(occ, Year == "2019")
-
-xyAll19 <- SpatialPointsDataFrame(
-  matrix(c(all$Lat_DD, all$Lon_DD), ncol=2), data.frame(ID=seq(1:nrow(all))),
-  proj4string=CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
-
-xyOcc19 <- SpatialPointsDataFrame(
-  matrix(c(occ2019$Lat_DD,occ2019$Lon_DD), ncol=2), data.frame(ID=seq(1:nrow(occ2019))),
-  proj4string=CRS("+proj=longlat +ellps=WGS84 +datum=WGS84"))
-mdist.19 <- distm(xyAll19, xyOcc19)
-min.d.19 <- apply(mdist.19, 1, function(x) sort(x)[2])
-all$y19 <- min.d.19
 
 
 
 # . -----------------------------------------------------------------------
 # Load modelling data -----------------------------------------------------
-dat  <- read_csv("data/2012-2019_occ-narm.csv")
+dat  <- read_csv("data/2012-2020_report.csv")
 dat$SiteID <- as.character(dat$SiteID)
 
 covs <- read_csv("data/covariates.csv")
 dat <- left_join(dat, covs, by = "SiteID")
 md <- md[,4]
+
+
 # . -----------------------------------------------------------------------
 # Occurence histories -----------------------------------------------------
 

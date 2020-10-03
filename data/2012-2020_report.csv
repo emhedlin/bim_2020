@@ -1,170 +1,170 @@
-"","SiteID","y20v1","y20v2","y20v3","Lat_DD","Lon_DD","y12v1","y12v2","y12v3","y13v1","y13v2","y13v3","y14v1","y14v2","y14v3","y15v1","y15v2","y15v3","y16v1","y16v2","y16v3","y17v1","y17v2","y17v3","y18v1","y18v2","y18v3","y19v1"
-"1","2","not detected","RLHA","not detected",71.8531,-80.9321,"0","0",NA,"PEFA",NA,NA,"PEFA","PEFA",NA,"0","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","PEFA"
-"2","3","not detected","not detected","not detected",71.8544,-80.9028,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","RLHA"
-"3","6","not detected","RLHA","RLHA",71.8368,-80.8319,"RLHA","RLHA",NA,"0",NA,NA,"PEFA","PEFA",NA,"RLHA","RLHA",NA,"0","PEFA",NA,"CORA","CORA",NA,"0","PEFA","PEFA","0"
-"4","7","not detected","RLHA","not detected",71.8033,-80.7595,"PEFA",NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0","0",NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"5","8","not detected","not detected","not detected",71.8702,-80.7133,"0",NA,NA,NA,NA,NA,"0","0",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","0",NA,"0","0","0","0"
-"6","9","not detected","not detected","not detected",71.8701,-80.7112,"PEFA","0",NA,NA,NA,NA,"PEFA","PEFA",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","PEFA","0","PEFA"
-"7","10","not detected","RLHA","RLHA",71.8634,-80.696,NA,"RLHA",NA,NA,NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,"RLHA","0","0","RLHA"
-"8","14","not detected","not detected","not detected",71.7708,-80.5799,"RLHA",NA,NA,"0","PEFA",NA,"PEFA","PEFA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","PEFA"
-"9","15","PEFA","PEFA","PEFA",71.7449,-80.5305,"PEFA",NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"0","0","0","0"
-"10","16","not detected","not detected","not detected",71.8196,-80.5177,"RLHA",NA,NA,NA,NA,NA,"0",NA,NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"11","17","not detected","PEFA","not detected",71.8139,-80.5009,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"PEFA","0",NA,"0",NA,NA,"PEFA","0",NA,"0","0","PEFA","0"
-"12","18","not detected","not detected","not detected",71.7948,-80.4523,"RLHA",NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"PEFA","0",NA,"PEFA","PEFA",NA,"0","0",NA,"0","0","0","0"
-"13","19","not detected","RLHA","not detected",71.779,-80.4441,"RLHA",NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","0",NA,"0","0",NA,"PEFA","PEFA",NA,"0","0","0","PEFA"
-"14","20","PEFA","PEFA","PEFA",71.6842,-80.4395,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","PEFA"
-"15","21","not detected","RLHA","not detected",71.7585,-80.3982,"0","RLHA",NA,NA,NA,NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,"RLHA","0","0","0"
-"16","22","PEFA","PEFA","PEFA",71.6184,-80.3961,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","PEFA"
-"17","24","PEFA","PEFA","PEFA",71.5549,-80.3386,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","PEFA"
-"18","25","not detected","not detected","not detected",71.7369,-80.3271,"RLHA","RLHA",NA,NA,NA,NA,"PEFA","0",NA,"0","0",NA,"GYRF","0",NA,"0","0",NA,"0","PEFA","0","GYRF"
-"19","26","not detected","not detected","not detected",71.5088,-80.3042,"RLHA","0",NA,"0",NA,NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0","0","PEFA"
-"20","27","not detected","not detected","not detected",71.7226,-80.2873,"0",NA,NA,NA,NA,NA,"GYRF","0",NA,"GYRF","0",NA,"0","0",NA,"GYRF","0",NA,"0","0","0","0"
-"21","28","PEFA","PEFA","PEFA",71.4765,-80.2676,"RLHA","RLHA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","PEFA",NA,"0","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","0","0"
-"22","30","PEFA","PEFA","PEFA",71.7112,-80.2472,"RLHA",NA,NA,NA,NA,NA,"0",NA,NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"23","32","RLHA","RLHA","RLHA",71.391,-80.2381,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"24","33","not detected","not detected","not detected",71.4522,-80.2294,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","0","0"
-"25","34","not detected","not detected","not detected",71.7048,-80.2042,"0",NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0","0","0"
-"26","35","not detected","not detected","not detected",71.7038,-80.1955,"0",NA,NA,NA,NA,NA,"PEFA","0",NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"27","40","PEFA","PEFA","PEFA",71.3882,-80.1527,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"0","0","0","0"
-"28","41","not detected","not detected","not detected",71.3875,-80.1483,"0","0",NA,"0","0",NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0"
-"29","43","RLHA","RLHA","RLHA",71.2862,-80.0018,"PEFA","PEFA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0","0","0","0"
-"30","46","RLHA","RLHA","RLHA",71.3825,-79.9647,"RLHA","RLHA",NA,"PEFA",NA,NA,"0",NA,NA,"RLHA","0",NA,"RLHA","RLHA",NA,"0","0",NA,"PEFA","0","0","0"
-"31","48","not detected","not detected","not detected",71.2978,-79.9221,"RLHA","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0","0","0"
-"32","49","not detected","not detected","not detected",71.2964,-79.9196,"PEFA","0",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","PEFA",NA,"0","0","0","0"
-"33","50","not detected","not detected","not detected",71.458,-79.8961,"RLHA",NA,NA,"PEFA",NA,NA,"PEFA","0",NA,"PEFA","0",NA,"0","0",NA,"PEFA","0",NA,"0","0","0","0"
-"34","51","RLHA","RLHA","RLHA",71.2947,-79.9039,"RLHA","0",NA,"0","0",NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0"
-"35","53","not detected","not detected","not detected",71.41498,-79.89182,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0","0","0"
-"36","54","not detected","not detected","not detected",71.3492,-79.8631,"RLHA",NA,NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","RLHA","RLHA","0"
-"37","55","not detected","not detected","not detected",71.3436,-79.8538,"0",NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"0","0",NA,"PEFA","PEFA","0","PEFA"
-"38","56","RLHA","RLHA","RLHA",71.2211,-79.8042,"0","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,NA,NA,NA,"CORA","0",NA,"RLHA","0","0","0"
-"39","57","not detected","not detected","not detected",71.2209,-79.8039,"0","0",NA,"0","0",NA,"0","0",NA,"RLHA","RLHA",NA,NA,NA,NA,"0","0",NA,NA,NA,NA,"0"
-"40","58","not detected","not detected","not detected",71.2447,-79.8005,"RLHA","RLHA",NA,"0",NA,NA,"0",NA,NA,"0",NA,NA,NA,NA,NA,"0","0",NA,"0","0","0","0"
-"41","59","PEFA","PEFA","PEFA",71.219,-79.7919,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA","0","PEFA"
-"42","61","not detected","not detected","not detected",71.3562,-79.7641,"RLHA","0",NA,"0",NA,NA,"0","0",NA,"RLHA","RLHA",NA,"0",NA,NA,"PEFA","0",NA,"0","0","0","0"
-"43","62","PEFA","PEFA","PEFA",71.46982,-79.75576,"PEFA",NA,NA,"0",NA,NA,"PEFA","0",NA,"0",NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0","0","0"
-"44","63","not detected","not detected","not detected",71.4707,-79.7455,"PEFA",NA,NA,"0",NA,NA,"0","0",NA,"0",NA,NA,"0","0",NA,"0","0",NA,"PEFA","PEFA","PEFA","0"
-"45","64","not detected","not detected","not detected",71.39816,-79.7033,"RLHA","0",NA,"0",NA,NA,"0",NA,NA,"0",NA,NA,"RLHA","0",NA,"0","0",NA,"0","0","0","0"
-"46","65","RLHA","RLHA","RLHA",71.4564,-79.7205,"0",NA,NA,"0",NA,NA,"RLHA","0",NA,"0","0",NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"47","66","RLHA","RLHA","RLHA",71.3441,-79.7168,"0",NA,NA,"0",NA,NA,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0","0","0"
-"48","68","not detected","not detected","not detected",71.3776,-79.7084,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","PEFA","PEFA","0"
-"49","69","RLHA","RLHA","RLHA",71.4111,-79.7058,"RLHA",NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0","0","PEFA"
-"50","70","RLHA","RLHA","RLHA",71.4658,-79.6706,"RLHA",NA,NA,"PEFA","PEFA",NA,"0",NA,NA,"RLHA","RLHA",NA,NA,NA,NA,"0","0",NA,"0","RLHA","0","0"
-"51","71","PEFA","PEFA","PEFA",71.1756,-79.6665,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","RLHA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","0"
-"52","72","RLHA","RLHA","RLHA",71.1779,-79.666,"RLHA","RLHA",NA,"0","0",NA,"0",NA,NA,"RLHA","RLHA",NA,"RLHA","0",NA,"0","0",NA,"0","0","0","RLHA"
-"53","74","not detected","not detected","not detected",71.32177,-80.19504,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0",NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","0","0"
-"54","75","not detected","RLHA","RLHA",71.3616,-79.6362,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","PEFA",NA,"PEFA","PEFA",NA,"0","0","0","0"
-"55","80","PEFA","PEFA","PEFA",71.4476,-79.5701,"RLHA",NA,NA,"PEFA","0",NA,"0",NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","0"
-"56","81","PEFA","PEFA","PEFA",71.399,-79.5737,"0",NA,NA,"PEFA","PEFA",NA,"PEFA","0",NA,"0","PEFA",NA,"PEFA","PEFA",NA,"0","0",NA,"0","0","0","0"
-"57","82","PEFA","PEFA","PEFA",71.3327,-79.5619,"PEFA","PEFA",NA,"0",NA,NA,"PEFA","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0","0","PEFA"
-"58","83","not detected","not detected","not detected",71.3286,-79.5424,"RLHA","RLHA",NA,"PEFA","PEFA",NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","PEFA","0","0"
-"59","84","not detected","not detected","not detected",71.4457,-79.5258,"0",NA,NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0","0","RLHA"
-"60","85","RLHA","RLHA","RLHA",71.4441,-79.5157,"RLHA",NA,NA,"0",NA,NA,"0",NA,NA,"RLHA","RLHA",NA,"0",NA,NA,"0","0",NA,"0","PEFA","0","0"
-"61","86","not detected","PEFA","not detected",71.3444,-79.4464,"RLHA","RLHA",NA,"0",NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0",NA,NA,"RLHA","RLHA",NA,"0","PEFA","0","0"
-"62","88","not detected","not detected","not detected",71.3374,-79.44,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","PEFA",NA,"RLHA","RLHA",NA,"CORA","0",NA,"CORA","0",NA,"CORA","0","0","0"
-"63","91","not detected","not detected","not detected",71.3333,-79.3849,"PEFA","0",NA,"0",NA,NA,"0",NA,NA,"0",NA,NA,"PEFA","PEFA",NA,"0","0",NA,"0","0","0","0"
-"64","94","PEFA","PEFA","PEFA",71.3696,-79.3786,"PEFA","PEFA",NA,"0","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","PEFA"
-"65","95","not detected","RLHA","RLHA",71.2227,-79.3808,"RLHA","0",NA,"0",NA,NA,"0",NA,NA,NA,NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"66","98","not detected","PEFA","PEFA",71.214,-79.3739,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0",NA,"0","0",NA,"0","0",NA,"PEFA","PEFA",NA,"0","PEFA","PEFA","0"
-"67","99","not detected","not detected","not detected",71.2144,-79.3719,"0","0",NA,"0","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0",NA,"GYRF","0","0","PEFA"
-"68","100","PEFA","PEFA","PEFA",71.3304,-79.3486,"0","0",NA,"0","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","PEFA","PEFA","PEFA"
-"69","101","not detected","not detected","not detected",71.1373,-79.3612,"PEFA","PEFA",NA,"0","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","PEFA"
-"70","102","not detected","not detected","not detected",71.13,-79.3554,"RLHA","0",NA,"0",NA,NA,"0",NA,NA,NA,NA,NA,NA,NA,NA,"0","0",NA,"0","0","0","0"
-"71","107","not detected","PEFA","PEFA",71.3291,-79.2855,"RLHA","0",NA,"0","0",NA,"0",NA,NA,"0","0",NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"72","108","not detected","not detected","not detected",71.3161,-79.2763,"0","0",NA,"PEFA","PEFA",NA,"0",NA,NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0","0","0"
-"73","109","RLHA","RLHA","RLHA",71.325,-79.2731,"0","0",NA,"0","0",NA,"0",NA,NA,"RLHA","RLHA",NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"74","114","not detected","not detected","not detected",71.30969,-79.19534,"0","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0","0","PEFA"
-"75","115","not detected","RLHA","RLHA",71.3087,-79.1925,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,"0","0","0","0"
-"76","119","RLHA","RLHA","RLHA",71.2918,-79.19,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0"
-"77","122","not detected","not detected","PEFA",71.2881,-79.1717,"PEFA","PEFA",NA,"0","0",NA,"0","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","0","PEFA","PEFA"
-"78","124","not detected","not detected","not detected",71.2833,-79.1592,"0","0",NA,"0","0",NA,"RLHA","RLHA",NA,"0","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0","0","0"
-"79","127","not detected","not detected","not detected",71.2766,-79.1223,"RLHA","RLHA",NA,"0",NA,NA,"0","0",NA,"0","0",NA,"GYRF","GYRF",NA,"GYRF","0",NA,"0","0","0","0"
-"80","128","PEFA","PEFA","PEFA",71.2738,-79.1069,"0","0",NA,"0",NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0",NA,"PEFA","0",NA,"PEFA","0","PEFA","PEFA"
-"81","129","not detected","not detected","not detected",71.2723,-79.0988,"0","0",NA,"0",NA,NA,"0","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0","0","0"
-"82","135","not detected","RLHA","RLHA",71.2271,-79.0682,"0",NA,NA,"0",NA,NA,"PEFA","PEFA",NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"83","138","not detected","RLHA","RLHA",71.2597,-79.0468,"RLHA","RLHA",NA,"PEFA","0",NA,"0",NA,NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"84","139","not detected","not detected","not detected",71.2376,-79.0316,"0",NA,NA,"0","0",NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0"
-"85","141","PEFA","PEFA","PEFA",71.2547,-79.0186,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","PEFA"
-"86","143","not detected","not detected","not detected",71.2552,-79.0151,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0"
-"87","145","not detected","not detected","not detected",71.2432,-78.9911,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,"RLHA","0",NA,"0","0",NA,"0","0","0","0"
-"88","148","not detected","RLHA","RLHA",71.2451,-78.9201,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,NA,NA,NA,NA,NA,NA,"0","0",NA,"0","0","0","RLHA"
-"89","150","not detected","not detected","not detected",71.2444,-78.9136,"0","0",NA,"0","0",NA,"0","0",NA,NA,NA,NA,NA,NA,NA,"0","0",NA,"0","0","0","0"
-"90","160","not detected","not detected","not detected",71.2483,-78.8876,"PEFA","PEFA",NA,"0","0",NA,"0","0",NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0","0","0","0"
-"91","164","not detected","not detected","not detected",71.22701,-78.87232,"0","0",NA,"PEFA","PEFA",NA,"PEFA","0",NA,NA,NA,NA,NA,NA,NA,"0","0",NA,"0","0","0","0"
-"92","165","not detected","PEFA","PEFA",71.2268,-78.872,"PEFA","PEFA",NA,"0","0",NA,"0","0",NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0","PEFA","0","0"
-"93","173","not detected","not detected","not detected",71.2203,-78.8383,"RLHA","RLHA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0","0",NA,"0","0","0","0"
-"94","338","not detected","not detected","not detected",71.2181,-79.7897,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,NA,NA,NA,"0","0",NA,"0","0","PEFA","0"
-"95","339","not detected","not detected","not detected",71.3612,-79.645,"RLHA","RLHA",NA,"0",NA,NA,"0","0",NA,"RLHA","RLHA",NA,NA,NA,NA,"0","0",NA,"0","0","0","0"
-"96","355","not detected","not detected","not detected",71.4038,-80.1698,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"RLHA","RLHA",NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"97","356","not detected","not detected","not detected",71.4708,-80.2779,"PEFA","PEFA",NA,"0","0",NA,"0","0",NA,NA,NA,NA,NA,NA,NA,"0","0",NA,"0","0","0","0"
-"98","357","PEFA","PEFA","PEFA",71.8392,-80.84,NA,"CORA",NA,"PEFA","PEFA",NA,"0","0",NA,"PEFA","PEFA",NA,"RLHA","RLHA",NA,"PEFA","PEFA",NA,"0","0","0","PEFA"
-"99","359","RLHA","RLHA","RLHA",71.4306,-80.0472,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"PEFA","PEFA","PEFA","PEFA"
-"100","360","not detected","not detected","not detected",71.7598,-80.4008,"0","0",NA,NA,NA,NA,"RLHA","RLHA",NA,"PEFA","0",NA,"RLHA","RLHA",NA,"CORA","0",NA,"0","PEFA","0","0"
-"101","374","not detected","not detected","not detected",71.5142,-80.3067,"0","RLHA",NA,"0",NA,NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0","0","0"
-"102","375","not detected","not detected","not detected",71.4607,-80.1918,"RLHA","0",NA,"RLHA","RLHA",NA,NA,NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0","0","0"
-"103","376","not detected","not detected","not detected",71.50282,-80.17978,NA,"0",NA,NA,NA,NA,"0",NA,NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"104","377","not detected","not detected","not detected",71.38007,-79.45242,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0","0","0"
-"105","378","not detected","not detected","not detected",71.45434,-80.22507,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"106","379","RLHA","RLHA","RLHA",71.40016,-80.15132,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0","0",NA,"0",NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA","RLHA","0"
-"107","380","not detected","not detected","not detected",71.43057,-80.03996,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"0","0","0","0"
-"108","382","RLHA","RLHA","RLHA",71.62832,-80.28523,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0","0","0"
-"109","383","not detected","PEFA","not detected",71.65401,-80.45984,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0",NA,"0","0","0","0"
-"110","384","not detected","not detected","not detected",71.72142,-80.74186,NA,NA,NA,NA,NA,NA,"PEFA","0",NA,"0","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0","0","0"
-"111","385","not detected","not detected","not detected",71.36123,-80.23653,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0"
-"112","386","RLHA","RLHA","RLHA",71.71721,-80.25545,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"113","387","not detected","PEFA","not detected",71.92651,-80.75506,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA",NA,NA,"PEFA","0",NA,"PEFA","0",NA,"PEFA","0","0","0"
-"114","388","PEFA","PEFA","PEFA",71.90827,-80.82447,NA,NA,NA,NA,NA,NA,"PEFA",NA,NA,"0",NA,NA,"0",NA,NA,"PEFA","0",NA,"0","0","0","0"
-"115","389","RLHA","RLHA","RLHA",71.35528,-79.30482,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"RLHA","0",NA,"0","0",NA,"0","0","0","RLHA"
-"116","390","not detected","not detected","not detected",71.81314,-80.49973,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0","0",NA,"PEFA","PEFA",NA,"0","0",NA,"0","0","0","PEFA"
-"117","391","not detected","RLHA","RLHA",71.93022,-80.84863,NA,NA,NA,NA,NA,NA,"RLHA",NA,NA,"PEFA",NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","0","PEFA"
-"118","392","not detected","not detected","not detected",71.97083,-80.82,NA,NA,NA,NA,NA,NA,"0",NA,NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"119","393","not detected","not detected","not detected",71.93387,-80.73041,NA,NA,NA,NA,NA,NA,"0",NA,NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"120","400","PEFA","PEFA","PEFA",71.80651,-80.70422,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA","0","0"
-"121","401","RLHA","RLHA","RLHA",71.87508,-80.86188,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0"
-"122","438","RLHA","RLHA","RLHA",71.7809,-80.6121,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"123","442","not detected","PEFA","not detected",71.34458,-79.76151,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","0",NA,"PEFA","PEFA",NA,"0","0",NA,"PEFA","PEFA","0","PEFA"
-"124","443","not detected","RLHA","RLHA",71.35378,-79.853,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"GLGU","0",NA,"0","0",NA,"0","0","0","0"
-"125","444","not detected","not detected","not detected",71.38098,-80.22776,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","0",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","PEFA","0","PEFA"
-"126","445","not detected","not detected","not detected",71.41703,-80.34054,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"127","446","not detected","not detected","not detected",71.46718,-80.28133,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,NA,NA,NA,"0","0",NA,"0","0","0","0"
-"128","447","not detected","PEFA","not detected",71.36883,-80.13145,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"0","0","0","PEFA"
-"129","448","not detected","PEFA","PEFA",71.51485,-80.3461,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0","0",NA,"0","0",NA,"PEFA","0","0","0"
-"130","449","not detected","RLHA","RLHA",71.59756,-80.38423,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0","0","0"
-"131","450","not detected","not detected","not detected",71.80688,-80.70904,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0",NA,"0","0","0","0"
-"132","451","not detected","not detected","not detected",71.8227,-80.87508,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0"
-"133","452","RLHA","RLHA","RLHA",71.85241,-81.02869,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0","0","RLHA"
-"134","453","not detected","not detected","not detected",71.27243,-79.09067,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0"
-"135","454","RLHA","RLHA","RLHA",71.68012,-80.22824,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0"
-"136","455","RLHA","RLHA","RLHA",71.78325,-80.25464,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,NA,NA,NA,"0","0",NA,"RLHA","0","0","RLHA"
-"137","460","not detected","not detected","not detected",71.43338,-80.02223,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","0",NA,NA,NA,NA,"0","0",NA,"0","0","0","0"
-"138","461","not detected","not detected","not detected",71.43996,-79.92803,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","0",NA,NA,NA,NA,"0","0",NA,"0","0","0","0"
-"139","462","not detected","not detected","not detected",71.44889,-79.8944,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA","0","0"
-"140","463","RLHA","RLHA","RLHA",71.41253,-79.88532,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0","RLHA",NA,"0","0",NA,"RLHA","RLHA","0","RLHA"
-"141","464","not detected","PEFA","PEFA",71.40972,-79.88554,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0","PEFA",NA,"0","0",NA,"0","0","PEFA","PEFA"
-"142","465","not detected","PEFA","PEFA",71.44782,-79.79672,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0","0","0"
-"143","466","RLHA","RLHA","RLHA",71.46692,-79.81014,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"144","467","not detected","not detected","not detected",71.46336,-79.71305,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"145","468","RLHA","RLHA","RLHA",71.3662,-79.4955,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"146","469","not detected","not detected","not detected",71.44595,-79.5481,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,NA,NA,NA,"0","0",NA,"0","0","0","0"
-"147","470","PEFA","PEFA","PEFA",71.43958,-79.43633,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0",NA,"0","PEFA","0","0"
-"148","472","not detected","RLHA","RLHA",71.3823,-79.45276,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0","0",NA,"PEFA","PEFA",NA,"0","0","0","0"
-"149","473","not detected","not detected","not detected",71.38197,-79.4493,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"RLHA","0","0","RLHA"
-"150","474","PEFA","not detected","not detected",71.43324,-79.25492,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","PEFA"
-"151","475","PEFA","PEFA","PEFA",71.73434,-80.313,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0","PEFA",NA,"0","0",NA,"0","0","PEFA","PEFA"
-"152","476","PEFA","PEFA","PEFA",71.30042,-79.1152,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","0",NA,"PEFA","PEFA",NA,"0","0",NA,"0","0","0","0"
-"153","477","RLHA","RLHA","RLHA",71.45999,-79.8083,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","0",NA,"0",NA,NA,"0","0",NA,"0","0","0","0"
-"154","478","not detected","PEFA","PEFA",71.30998,-79.22727,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","0",NA,"PEFA","PEFA","PEFA","PEFA"
-"155","480","not detected","not detected","not detected",71.45986,-80.09334,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0","0",NA,"0","0","0","0"
-"156","481","not detected","not detected","not detected",71.73833,-80.33509,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0","0","0","PEFA"
-"157","482","not detected","not detected","not detected",71.84302,-80.86133,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"CORA","CORA",NA,"0","0","0","0"
-"158","483","not detected","not detected","not detected",71.51633,-80.33231,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0","0","0"
-"159","484","RLHA","RLHA","RLHA",71.65337,-80.42009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0","0",NA,"RLHA","RLHA","RLHA","RLHA"
-"160","485","RLHA","RLHA","RLHA",71.34127,-79.43357,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","0",NA,"PEFA","0","0","0"
-"161","486","not detected","not detected","not detected",71.82254,-81.17467,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","0"
-"162","487","PEFA","PEFA","PEFA",71.24663,-78.85732,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA"
-"163","488","not detected","not detected","not detected",71.35832,-79.77888,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA","0"
-"164","489","not detected","PEFA","PEFA",71.7139,-80.6963,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"165","490","not detected","PEFA","PEFA",71.386,-80.228,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"166","491","not detected","PEFA","PEFA",71.8052,-81.1074,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"167","492","not detected","RLHA","RLHA",71.4551,-79.6043,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"168","493","not detected","not detected","not detected",71.3259,-79.5365,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"169","RLHA C 2020","RLHA","RLHA","RLHA",71.367067,-79.366506,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","SiteID","y20v1","y20v2","y20v3","Lat_DD","Lon_DD","y12v1","y12v2","y12v3","y13v1","y13v2","y13v3","y14v1","y14v2","y14v3","y15v1","y15v2","y15v3","y16v1","y16v2","y16v3","y17v1","y17v2","y17v3","y18v1","y18v2","y18v3","y19v1","dist_disturb"
+"1","2","not detected","RLHA","not detected",71.8531,-80.9321,"0","0",NA,"PEFA",NA,NA,"PEFA","PEFA",NA,"0","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","PEFA",2213.58743829058
+"2","3","not detected","not detected","not detected",71.8544,-80.9028,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","RLHA",1328.8309768343
+"3","6","not detected","RLHA","RLHA",71.8368,-80.8319,"RLHA","RLHA",NA,"0",NA,NA,"PEFA","PEFA",NA,"RLHA","RLHA",NA,"0","PEFA",NA,"CORA","CORA",NA,"0","PEFA","PEFA","0",897.665116602317
+"4","7","not detected","RLHA","not detected",71.8033,-80.7595,"PEFA",NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0","0",NA,"0",NA,NA,"0","0",NA,"0","0","0","0",1688.2046047788
+"5","8","not detected","not detected","not detected",71.8702,-80.7133,"0",NA,NA,NA,NA,NA,"0","0",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","0",NA,"0","0","0","0",4645.65006725407
+"6","9","not detected","not detected","not detected",71.8701,-80.7112,"PEFA","0",NA,NA,NA,NA,"PEFA","PEFA",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","PEFA","0","PEFA",4691.46576555535
+"7","10","not detected","RLHA","RLHA",71.8634,-80.696,NA,"RLHA",NA,NA,NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,"RLHA","0","0","RLHA",4517.88601601566
+"8","14","not detected","not detected","not detected",71.7708,-80.5799,"RLHA",NA,NA,"0","PEFA",NA,"PEFA","PEFA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","PEFA",749.321134423642
+"9","15","PEFA","PEFA","PEFA",71.7449,-80.5305,"PEFA",NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"0","0","0","0",1415.63513619259
+"10","16","not detected","not detected","not detected",71.8196,-80.5177,"RLHA",NA,NA,NA,NA,NA,"0",NA,NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0",4117.52557924134
+"11","17","not detected","PEFA","not detected",71.8139,-80.5009,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"PEFA","0",NA,"0",NA,NA,"PEFA","0",NA,"0","0","PEFA","0",4252.8824993044
+"12","18","not detected","not detected","not detected",71.7948,-80.4523,"RLHA",NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"PEFA","0",NA,"PEFA","PEFA",NA,"0","0",NA,"0","0","0","0",4253.74701115353
+"13","19","not detected","RLHA","not detected",71.779,-80.4441,"RLHA",NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","0",NA,"0","0",NA,"PEFA","PEFA",NA,"0","0","0","PEFA",3162.98889800485
+"14","20","PEFA","PEFA","PEFA",71.6842,-80.4395,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","PEFA",1774.37079447097
+"15","21","not detected","RLHA","not detected",71.7585,-80.3982,"0","RLHA",NA,NA,NA,NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,"RLHA","0","0","0",3277.5437158081
+"16","22","PEFA","PEFA","PEFA",71.6184,-80.3961,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","PEFA",1205.71627749077
+"17","24","PEFA","PEFA","PEFA",71.5549,-80.3386,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","PEFA",1165.45445547927
+"18","25","not detected","not detected","not detected",71.7369,-80.3271,"RLHA","RLHA",NA,NA,NA,NA,"PEFA","0",NA,"0","0",NA,"GYRF","0",NA,"0","0",NA,"0","PEFA","0","GYRF",4470.29595855367
+"19","26","not detected","not detected","not detected",71.5088,-80.3042,"RLHA","0",NA,"0",NA,NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0","0","PEFA",2033.61084550741
+"20","27","not detected","not detected","not detected",71.7226,-80.2873,"0",NA,NA,NA,NA,NA,"GYRF","0",NA,"GYRF","0",NA,"0","0",NA,"GYRF","0",NA,"0","0","0","0",4847.80045539534
+"21","28","PEFA","PEFA","PEFA",71.4765,-80.2676,"RLHA","RLHA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","PEFA",NA,"0","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","0","0",1421.97401443854
+"22","30","PEFA","PEFA","PEFA",71.7112,-80.2472,"RLHA",NA,NA,NA,NA,NA,"0",NA,NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0",5533.82647213483
+"23","32","RLHA","RLHA","RLHA",71.391,-80.2381,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5284.60806025709
+"24","33","not detected","not detected","not detected",71.4522,-80.2294,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","0","0",1193.61201719411
+"25","34","not detected","not detected","not detected",71.7048,-80.2042,"0",NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0","0","0",6689.08670680621
+"26","35","not detected","not detected","not detected",71.7038,-80.1955,"0",NA,NA,NA,NA,NA,"PEFA","0",NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0",6945.55946544526
+"27","40","PEFA","PEFA","PEFA",71.3882,-80.1527,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"0","0","0","0",2924.51641931658
+"28","41","not detected","not detected","not detected",71.3875,-80.1483,"0","0",NA,"0","0",NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0",2841.63214766157
+"29","43","RLHA","RLHA","RLHA",71.2862,-80.0018,"PEFA","PEFA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0","0","0","0",10433.7540509097
+"30","46","RLHA","RLHA","RLHA",71.3825,-79.9647,"RLHA","RLHA",NA,"PEFA",NA,NA,"0",NA,NA,"RLHA","0",NA,"RLHA","RLHA",NA,"0","0",NA,"PEFA","0","0","0",274.115147809015
+"31","48","not detected","not detected","not detected",71.2978,-79.9221,"RLHA","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0","0","0",9260.90854701899
+"32","49","not detected","not detected","not detected",71.2964,-79.9196,"PEFA","0",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","PEFA",NA,"0","0","0","0",9431.32893927138
+"33","50","not detected","not detected","not detected",71.458,-79.8961,"RLHA",NA,NA,"PEFA",NA,NA,"PEFA","0",NA,"PEFA","0",NA,"0","0",NA,"PEFA","0",NA,"0","0","0","0",7187.75000594079
+"34","51","RLHA","RLHA","RLHA",71.2947,-79.9039,"RLHA","0",NA,"0","0",NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0",9739.22734684503
+"35","53","not detected","not detected","not detected",71.41498,-79.89182,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0","0","0",2756.90645170597
+"36","54","not detected","not detected","not detected",71.3492,-79.8631,"RLHA",NA,NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","RLHA","RLHA","0",4282.90727053175
+"37","55","not detected","not detected","not detected",71.3436,-79.8538,"0",NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"0","0",NA,"PEFA","PEFA","0","PEFA",4981.34042867298
+"38","56","RLHA","RLHA","RLHA",71.2211,-79.8042,"0","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,NA,NA,NA,"CORA","0",NA,"RLHA","0","0","0",15858.0622833456
+"39","57","not detected","not detected","not detected",71.2209,-79.8039,"0","0",NA,"0","0",NA,"0","0",NA,"RLHA","RLHA",NA,NA,NA,NA,"0","0",NA,NA,NA,NA,"0",15868.8305057653
+"40","58","not detected","not detected","not detected",71.2447,-79.8005,"RLHA","RLHA",NA,"0",NA,NA,"0",NA,NA,"0",NA,NA,NA,NA,NA,"0","0",NA,"0","0","0","0",13799.2834785258
+"41","59","PEFA","PEFA","PEFA",71.219,-79.7919,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA","0","PEFA",15773.846901515
+"42","61","not detected","not detected","not detected",71.3562,-79.7641,"RLHA","0",NA,"0",NA,NA,"0","0",NA,"RLHA","RLHA",NA,"0",NA,NA,"PEFA","0",NA,"0","0","0","0",2618.45420266718
+"43","62","PEFA","PEFA","PEFA",71.46982,-79.75576,"PEFA",NA,NA,"0",NA,NA,"PEFA","0",NA,"0",NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0","0","0",8227.33938221235
+"44","63","not detected","not detected","not detected",71.4707,-79.7455,"PEFA",NA,NA,"0",NA,NA,"0","0",NA,"0",NA,NA,"0","0",NA,"0","0",NA,"PEFA","PEFA","PEFA","0",8420.89219852579
+"45","64","not detected","not detected","not detected",71.39816,-79.7033,"RLHA","0",NA,"0",NA,NA,"0",NA,NA,"0",NA,NA,"RLHA","0",NA,"0","0",NA,"0","0","0","0",2383.2098068641
+"46","65","RLHA","RLHA","RLHA",71.4564,-79.7205,"0",NA,NA,"0",NA,NA,"RLHA","0",NA,"0","0",NA,"0",NA,NA,"0","0",NA,"0","0","0","0",7269.43569698143
+"47","66","RLHA","RLHA","RLHA",71.3441,-79.7168,"0",NA,NA,"0",NA,NA,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0","0","0",3565.09868397179
+"48","68","not detected","not detected","not detected",71.3776,-79.7084,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","PEFA","PEFA","0",151.01622790579
+"49","69","RLHA","RLHA","RLHA",71.4111,-79.7058,"RLHA",NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0","0","PEFA",3541.44427824965
+"50","70","RLHA","RLHA","RLHA",71.4658,-79.6706,"RLHA",NA,NA,"PEFA","PEFA",NA,"0",NA,NA,"RLHA","RLHA",NA,NA,NA,NA,"0","0",NA,"0","RLHA","0","0",9075.89996721236
+"51","71","PEFA","PEFA","PEFA",71.1756,-79.6665,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","RLHA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","0",18129.6867908128
+"52","72","RLHA","RLHA","RLHA",71.1779,-79.666,"RLHA","RLHA",NA,"0","0",NA,"0",NA,NA,"RLHA","RLHA",NA,"RLHA","0",NA,"0","0",NA,"0","0","0","RLHA",17878.4796077228
+"53","74","not detected","not detected","not detected",71.32177,-80.19504,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0",NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","0","0",9295.96377474186
+"54","75","not detected","RLHA","RLHA",71.3616,-79.6362,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","PEFA",NA,"PEFA","PEFA",NA,"0","0","0","0",611.4996258449
+"55","80","PEFA","PEFA","PEFA",71.4476,-79.5701,"RLHA",NA,NA,"PEFA","0",NA,"0",NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","0",9011.83372902867
+"56","81","PEFA","PEFA","PEFA",71.399,-79.5737,"0",NA,NA,"PEFA","PEFA",NA,"PEFA","0",NA,"0","PEFA",NA,"PEFA","PEFA",NA,"0","0",NA,"0","0","0","0",3954.13949296929
+"57","82","PEFA","PEFA","PEFA",71.3327,-79.5619,"PEFA","PEFA",NA,"0",NA,NA,"PEFA","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0","0","PEFA",896.794483341563
+"58","83","not detected","not detected","not detected",71.3286,-79.5424,"RLHA","RLHA",NA,"PEFA","PEFA",NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","PEFA","0","0",644.932680142394
+"59","84","not detected","not detected","not detected",71.4457,-79.5258,"0",NA,NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0","0","RLHA",9421.20871776449
+"60","85","RLHA","RLHA","RLHA",71.4441,-79.5157,"RLHA",NA,NA,"0",NA,NA,"0",NA,NA,"RLHA","RLHA",NA,"0",NA,NA,"0","0",NA,"0","PEFA","0","0",9391.46841651707
+"61","86","not detected","PEFA","not detected",71.3444,-79.4464,"RLHA","RLHA",NA,"0",NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0",NA,NA,"RLHA","RLHA",NA,"0","PEFA","0","0",1652.41784664153
+"62","88","not detected","not detected","not detected",71.3374,-79.44,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","PEFA",NA,"RLHA","RLHA",NA,"CORA","0",NA,"CORA","0",NA,"CORA","0","0","0",843.383118187085
+"63","91","not detected","not detected","not detected",71.3333,-79.3849,"PEFA","0",NA,"0",NA,NA,"0",NA,NA,"0",NA,NA,"PEFA","PEFA",NA,"0","0",NA,"0","0","0","0",202.715102455114
+"64","94","PEFA","PEFA","PEFA",71.3696,-79.3786,"PEFA","PEFA",NA,"0","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","PEFA",4224.50628777432
+"65","95","not detected","RLHA","RLHA",71.2227,-79.3808,"RLHA","0",NA,"0",NA,NA,"0",NA,NA,NA,NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0",10734.2127235846
+"66","98","not detected","PEFA","PEFA",71.214,-79.3739,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0",NA,"0","0",NA,"0","0",NA,"PEFA","PEFA",NA,"0","PEFA","PEFA","0",11584.3446013304
+"67","99","not detected","not detected","not detected",71.2144,-79.3719,"0","0",NA,"0","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0",NA,"GYRF","0","0","PEFA",11521.4786530304
+"68","100","PEFA","PEFA","PEFA",71.3304,-79.3486,"0","0",NA,"0","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","PEFA","PEFA","PEFA",586.605970353164
+"69","101","not detected","not detected","not detected",71.1373,-79.3612,"PEFA","PEFA",NA,"0","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","PEFA",19874.3007431458
+"70","102","not detected","not detected","not detected",71.13,-79.3554,"RLHA","0",NA,"0",NA,NA,"0",NA,NA,NA,NA,NA,NA,NA,NA,"0","0",NA,"0","0","0","0",20653.774420426
+"71","107","not detected","PEFA","PEFA",71.3291,-79.2855,"RLHA","0",NA,"0","0",NA,"0",NA,NA,"0","0",NA,"0",NA,NA,"0","0",NA,"0","0","0","0",1560.26291670831
+"72","108","not detected","not detected","not detected",71.3161,-79.2763,"0","0",NA,"PEFA","PEFA",NA,"0",NA,NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0","0","0",367.109260956727
+"73","109","RLHA","RLHA","RLHA",71.325,-79.2731,"0","0",NA,"0","0",NA,"0",NA,NA,"RLHA","RLHA",NA,"0",NA,NA,"0","0",NA,"0","0","0","0",1267.45129086158
+"74","114","not detected","not detected","not detected",71.30969,-79.19534,"0","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0","0","PEFA",3170.63666718314
+"75","115","not detected","RLHA","RLHA",71.3087,-79.1925,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,"0","0","0","0",3288.06244362139
+"76","119","RLHA","RLHA","RLHA",71.2918,-79.19,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0",4128.20591826936
+"77","122","not detected","not detected","PEFA",71.2881,-79.1717,"PEFA","PEFA",NA,"0","0",NA,"0","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","0","PEFA","PEFA",4901.22616659999
+"78","124","not detected","not detected","not detected",71.2833,-79.1592,"0","0",NA,"0","0",NA,"RLHA","RLHA",NA,"0","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0","0","0",5579.85858720052
+"79","127","not detected","not detected","not detected",71.2766,-79.1223,"RLHA","RLHA",NA,"0",NA,NA,"0","0",NA,"0","0",NA,"GYRF","GYRF",NA,"GYRF","0",NA,"0","0","0","0",7087.40726883614
+"80","128","PEFA","PEFA","PEFA",71.2738,-79.1069,"0","0",NA,"0",NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0",NA,"PEFA","0",NA,"PEFA","0","PEFA","PEFA",7718.22993603847
+"81","129","not detected","not detected","not detected",71.2723,-79.0988,"0","0",NA,"0",NA,NA,"0","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0","0","0",8052.01037370048
+"82","135","not detected","RLHA","RLHA",71.2271,-79.0682,"0",NA,NA,"0",NA,NA,"PEFA","PEFA",NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0",12352.9596354279
+"83","138","not detected","RLHA","RLHA",71.2597,-79.0468,"RLHA","RLHA",NA,"PEFA","0",NA,"0",NA,NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0",10386.3020802921
+"84","139","not detected","not detected","not detected",71.2376,-79.0316,"0",NA,NA,"0","0",NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0",12379.1295147252
+"85","141","PEFA","PEFA","PEFA",71.2547,-79.0186,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","PEFA",11534.6324672454
+"86","143","not detected","not detected","not detected",71.2552,-79.0151,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0",11606.3379497923
+"87","145","not detected","not detected","not detected",71.2432,-78.9911,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,"RLHA","0",NA,"0","0",NA,"0","0","0","0",13087.3572537523
+"88","148","not detected","RLHA","RLHA",71.2451,-78.9201,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,NA,NA,NA,NA,NA,NA,"0","0",NA,"0","0","0","RLHA",15089.878965367
+"89","150","not detected","not detected","not detected",71.2444,-78.9136,"0","0",NA,"0","0",NA,"0","0",NA,NA,NA,NA,NA,NA,NA,"0","0",NA,"0","0","0","0",15330.5568707918
+"90","160","not detected","not detected","not detected",71.2483,-78.8876,"PEFA","PEFA",NA,"0","0",NA,"0","0",NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0","0","0","0",15937.2540532927
+"91","164","not detected","not detected","not detected",71.22701,-78.87232,"0","0",NA,"PEFA","PEFA",NA,"PEFA","0",NA,NA,NA,NA,NA,NA,NA,"0","0",NA,"0","0","0","0",17616.1930320442
+"92","165","not detected","PEFA","PEFA",71.2268,-78.872,"PEFA","PEFA",NA,"0","0",NA,"0","0",NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0","PEFA","0","0",17638.712270967
+"93","173","not detected","not detected","not detected",71.2203,-78.8383,"RLHA","RLHA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0","0",NA,"0","0","0","0",19049.0405174495
+"94","338","not detected","not detected","not detected",71.2181,-79.7897,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,"0","0",NA,NA,NA,NA,"0","0",NA,"0","0","PEFA","0",15807.5287131896
+"95","339","not detected","not detected","not detected",71.3612,-79.645,"RLHA","RLHA",NA,"0",NA,NA,"0","0",NA,"RLHA","RLHA",NA,NA,NA,NA,"0","0",NA,"0","0","0","0",744.53919243034
+"96","355","not detected","not detected","not detected",71.4038,-80.1698,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"RLHA","RLHA",NA,"0",NA,NA,"0","0",NA,"0","0","0","0",2473.35273898733
+"97","356","not detected","not detected","not detected",71.4708,-80.2779,"PEFA","PEFA",NA,"0","0",NA,"0","0",NA,NA,NA,NA,NA,NA,NA,"0","0",NA,"0","0","0","0",1967.3679508308
+"98","357","PEFA","PEFA","PEFA",71.8392,-80.84,NA,"CORA",NA,"PEFA","PEFA",NA,"0","0",NA,"PEFA","PEFA",NA,"RLHA","RLHA",NA,"PEFA","PEFA",NA,"0","0","0","PEFA",814.541959168875
+"99","359","RLHA","RLHA","RLHA",71.4306,-80.0472,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"PEFA","PEFA","PEFA","PEFA",2527.60392430504
+"100","360","not detected","not detected","not detected",71.7598,-80.4008,"0","0",NA,NA,NA,NA,"RLHA","RLHA",NA,"PEFA","0",NA,"RLHA","RLHA",NA,"CORA","0",NA,"0","PEFA","0","0",3249.12867899871
+"101","374","not detected","not detected","not detected",71.5142,-80.3067,"0","RLHA",NA,"0",NA,NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0","0","0",1735.37486822578
+"102","375","not detected","not detected","not detected",71.4607,-80.1918,"RLHA","0",NA,"RLHA","RLHA",NA,NA,NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0","0","0",382.352450687962
+"103","376","not detected","not detected","not detected",71.50282,-80.17978,NA,"0",NA,NA,NA,NA,"0",NA,NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0",2003.98509904015
+"104","377","not detected","not detected","not detected",71.38007,-79.45242,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0","0","0",5252.39001142421
+"105","378","not detected","not detected","not detected",71.45434,-80.22507,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0",956.409648479228
+"106","379","RLHA","RLHA","RLHA",71.40016,-80.15132,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0","0",NA,"0",NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA","RLHA","0",2123.45046255661
+"107","380","not detected","not detected","not detected",71.43057,-80.03996,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"0","0","0","0",2768.37460347272
+"108","382","RLHA","RLHA","RLHA",71.62832,-80.28523,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0","0",NA,"0","0",NA,"0","0",NA,"0","0","0","0",2691.101852773
+"109","383","not detected","PEFA","not detected",71.65401,-80.45984,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0",NA,"0","0","0","0",2883.72611860785
+"110","384","not detected","not detected","not detected",71.72142,-80.74186,NA,NA,NA,NA,NA,NA,"PEFA","0",NA,"0","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0","0","0",8550.91578110432
+"111","385","not detected","not detected","not detected",71.36123,-80.23653,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0",7131.20211203372
+"112","386","RLHA","RLHA","RLHA",71.71721,-80.25545,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0",NA,NA,"0","0",NA,"0","0","0","0",5581.4736772284
+"113","387","not detected","PEFA","not detected",71.92651,-80.75506,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA",NA,NA,"PEFA","0",NA,"PEFA","0",NA,"PEFA","0","0","0",7246.10959187733
+"114","388","PEFA","PEFA","PEFA",71.90827,-80.82447,NA,NA,NA,NA,NA,NA,"PEFA",NA,NA,"0",NA,NA,"0",NA,NA,"PEFA","0",NA,"0","0","0","0",4118.12115335904
+"115","389","RLHA","RLHA","RLHA",71.35528,-79.30482,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"RLHA","0",NA,"0","0",NA,"0","0","0","RLHA",3754.98700695895
+"116","390","not detected","not detected","not detected",71.81314,-80.49973,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0","0",NA,"PEFA","PEFA",NA,"0","0",NA,"0","0","0","PEFA",4250.21402693099
+"117","391","not detected","RLHA","RLHA",71.93022,-80.84863,NA,NA,NA,NA,NA,NA,"RLHA",NA,NA,"PEFA",NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","0","PEFA",5875.23068874631
+"118","392","not detected","not detected","not detected",71.97083,-80.82,NA,NA,NA,NA,NA,NA,"0",NA,NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0",10499.9758954282
+"119","393","not detected","not detected","not detected",71.93387,-80.73041,NA,NA,NA,NA,NA,NA,"0",NA,NA,"0",NA,NA,"0",NA,NA,"0","0",NA,"0","0","0","0",8430.36612643042
+"120","400","PEFA","PEFA","PEFA",71.80651,-80.70422,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"PEFA","PEFA",NA,"PEFA","PEFA","0","0",281.84742045583
+"121","401","RLHA","RLHA","RLHA",71.87508,-80.86188,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0",1099.86118039602
+"122","438","RLHA","RLHA","RLHA",71.7809,-80.6121,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,899.122565979523
+"123","442","not detected","PEFA","not detected",71.34458,-79.76151,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","0",NA,"PEFA","PEFA",NA,"0","0",NA,"PEFA","PEFA","0","PEFA",3768.5718780875
+"124","443","not detected","RLHA","RLHA",71.35378,-79.853,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"GLGU","0",NA,"0","0",NA,"0","0","0","0",3938.68457943947
+"125","444","not detected","not detected","not detected",71.38098,-80.22776,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","0",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","PEFA","0","PEFA",5586.66731686419
+"126","445","not detected","not detected","not detected",71.41703,-80.34054,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0",NA,NA,"0","0",NA,"0","0","0","0",6402.63079162327
+"127","446","not detected","not detected","not detected",71.46718,-80.28133,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,NA,NA,NA,"0","0",NA,"0","0","0","0",2207.21092099132
+"128","447","not detected","PEFA","not detected",71.36883,-80.13145,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0",NA,"0","0","0","PEFA",4099.4302870954
+"129","448","not detected","PEFA","PEFA",71.51485,-80.3461,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0","0",NA,"0","0",NA,"PEFA","0","0","0",2998.10123525798
+"130","449","not detected","RLHA","RLHA",71.59756,-80.38423,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"0","0","0","0",1418.82016060366
+"131","450","not detected","not detected","not detected",71.80688,-80.70904,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0",NA,"0","0","0","0",363.597689441593
+"132","451","not detected","not detected","not detected",71.8227,-80.87508,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0",3013.51370561954
+"133","452","RLHA","RLHA","RLHA",71.85241,-81.02869,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0","0","RLHA",5111.51789783759
+"134","453","not detected","not detected","not detected",71.27243,-79.09067,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0",8284.25609307859
+"135","454","RLHA","RLHA","RLHA",71.68012,-80.22824,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0","0",NA,"0","0",NA,"0","0","0","0",5381.6839915514
+"136","455","RLHA","RLHA","RLHA",71.78325,-80.25464,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,NA,NA,NA,"0","0",NA,"RLHA","0","0","RLHA",8980.74567914277
+"137","460","not detected","not detected","not detected",71.43338,-80.02223,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","0",NA,NA,NA,NA,"0","0",NA,"0","0","0","0",3449.81342878167
+"138","461","not detected","not detected","not detected",71.43996,-79.92803,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","0",NA,NA,NA,NA,"0","0",NA,"0","0","0","0",5797.42537080028
+"139","462","not detected","not detected","not detected",71.44889,-79.8944,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"RLHA","RLHA","0","0",6212.44656976495
+"140","463","RLHA","RLHA","RLHA",71.41253,-79.88532,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0","RLHA",NA,"0","0",NA,"RLHA","RLHA","0","RLHA",2417.51633244491
+"141","464","not detected","PEFA","PEFA",71.40972,-79.88554,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0","PEFA",NA,"0","0",NA,"0","0","PEFA","PEFA",2129.28412147032
+"142","465","not detected","PEFA","PEFA",71.44782,-79.79672,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","0","0","0",5539.27097465746
+"143","466","RLHA","RLHA","RLHA",71.46692,-79.81014,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0",NA,NA,"0","0",NA,"0","0","0","0",7634.62756193828
+"144","467","not detected","not detected","not detected",71.46336,-79.71305,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0",NA,NA,"0","0",NA,"0","0","0","0",8082.08323180554
+"145","468","RLHA","RLHA","RLHA",71.3662,-79.4955,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0",NA,NA,"0","0",NA,"0","0","0","0",3126.68284118357
+"146","469","not detected","not detected","not detected",71.44595,-79.5481,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,NA,NA,NA,"0","0",NA,"0","0","0","0",9122.03000001601
+"147","470","PEFA","PEFA","PEFA",71.43958,-79.43633,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0",NA,"0","PEFA","0","0",10320.0912505971
+"148","472","not detected","RLHA","RLHA",71.3823,-79.45276,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0","0",NA,"PEFA","PEFA",NA,"0","0","0","0",5381.52241566095
+"149","473","not detected","not detected","not detected",71.38197,-79.4493,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"RLHA","RLHA",NA,"0","0",NA,"RLHA","0","0","RLHA",5462.27623966498
+"150","474","PEFA","not detected","not detected",71.43324,-79.25492,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","PEFA",12248.2676229856
+"151","475","PEFA","PEFA","PEFA",71.73434,-80.313,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0","PEFA",NA,"0","0",NA,"0","0","PEFA","PEFA",4717.31027745527
+"152","476","PEFA","PEFA","PEFA",71.30042,-79.1152,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","0",NA,"PEFA","PEFA",NA,"0","0",NA,"0","0","0","0",6186.80648565795
+"153","477","RLHA","RLHA","RLHA",71.45999,-79.8083,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","0",NA,"0",NA,NA,"0","0",NA,"0","0","0","0",6863.55688033114
+"154","478","not detected","PEFA","PEFA",71.30998,-79.22727,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","0",NA,"PEFA","0",NA,"PEFA","PEFA","PEFA","PEFA",2038.78870845269
+"155","480","not detected","not detected","not detected",71.45986,-80.09334,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA",NA,"0","0",NA,"0","0","0","0",3421.93672578091
+"156","481","not detected","not detected","not detected",71.73833,-80.33509,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"0","0","0","PEFA",4337.90291230161
+"157","482","not detected","not detected","not detected",71.84302,-80.86133,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"CORA","CORA",NA,"0","0","0","0",1145.94493582844
+"158","483","not detected","not detected","not detected",71.51633,-80.33231,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA",NA,"0","0","0","0",2483.29511994136
+"159","484","RLHA","RLHA","RLHA",71.65337,-80.42009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0","0",NA,"RLHA","RLHA","RLHA","RLHA",1493.86673497619
+"160","485","RLHA","RLHA","RLHA",71.34127,-79.43357,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","0",NA,"PEFA","0","0","0",1173.08712314053
+"161","486","not detected","not detected","not detected",71.82254,-81.17467,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",NA,"PEFA","PEFA","PEFA","0",11161.2798032291
+"162","487","PEFA","PEFA","PEFA",71.24663,-78.85732,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PEFA","PEFA",16991.1464561897
+"163","488","not detected","not detected","not detected",71.35832,-79.77888,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"RLHA","RLHA","0",2664.82565729481
+"164","489","not detected","PEFA","PEFA",71.7139,-80.6963,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8021.50261743476
+"165","490","not detected","PEFA","PEFA",71.386,-80.228,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5259.54078319999
+"166","491","not detected","PEFA","PEFA",71.8052,-81.1074,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10302.8171337266
+"167","492","not detected","RLHA","RLHA",71.4551,-79.6043,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9367.40355592988
+"168","493","not detected","not detected","not detected",71.3259,-79.5365,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,751.074598081555
+"169","RLHA C 2020","RLHA","RLHA","RLHA",71.367067,-79.366506,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4013.76682682924
