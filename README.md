@@ -20,4 +20,4 @@ Work for the 2020 BIM report
 ### Status
 *October 4*
 
-I've improved scripts from last year that calculate distance to nearest occupied neighbour, and distance to the road. Before I delineate territories, I need to make sure the accounting makes sense across the data sheets. Turns out it doesn't. Spent yesterday and today trying to figure out where the errors are coming from. 
+I've improved scripts from last year that calculate distance to nearest occupied neighbour, and distance to the road. Before I delineate territories, I need to make sure the accounting makes sense across the data sheets/reports. Turns out it doesn't. Spent yesterday and today trying to figure out where the errors are coming from. 
