@@ -35,3 +35,5 @@ I've improved scripts from last year that calculate distance to nearest occupied
 |	71		|	15		|RLHA	    |	PEFA        |
 
 The numbers in the report's summary table are taken from the database, but the analysis is done using the datasheet. This year, I'm hoping to use the data sheet for both. I'll check the comments in the database to see if I can find clarification, but if I can't, I'll use the database as the truth. Changes to the datasheet will be reflected in the code first (to ensure documentation of changes), and only completed on the ```data/2012-2019_report.csv``` sheet.
+
+Discrepancies between datasheets and reports need to be solved before I can work on territory delineation.
