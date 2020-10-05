@@ -27,7 +27,7 @@ I've improved scripts from last year that calculate distance to nearest occupied
 * Summarized the datasheet used in last year's report in the same way
 * joined tables and filtered the values to show differences
 
-|	Year    | Site      | Datasheet | Database      |
+|	Site    | Year      | Datasheet | Database      |
 |-----------|-----------|-----------|--------|
 |	101		|	13		|unoccupied |	PEFA		|
 |	141		|	17		|RLHA       |   PEFA        |
