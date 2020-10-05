@@ -21,3 +21,17 @@ Work for the 2020 BIM report
 *October 4*
 
 I've improved scripts from last year that calculate distance to nearest occupied neighbour, and distance to the road. Before I delineate territories, I need to make sure the accounting makes sense across the data sheets/reports. Turns out it doesn't. Spent yesterday and today trying to figure out where the errors are coming from. 
+
+*October 5*
+* Summarized the database into a table that indicates what species is occupying what territory.
+* Summarized the datasheet used in last year's report in the same way
+* joined tables and filtered the values to show differences
+
+|	Year    | Site      | Datasheet | Database      |
+|-----------|-----------|-----------|--------|
+|	101		|	13		|unoccupied |	PEFA		|
+|	141		|	17		|RLHA       |   PEFA        |
+|	374		|	12		|RLHA       |	PEFA        |
+|	71		|	15		|RLHA	    |	PEFA        |
+
+The numbers in the report's summary table are taken from the database, but the analysis is done using the datasheet. This year, I'm hoping to use the data sheet for both. 
