@@ -30,7 +30,7 @@ I've improved scripts from last year that calculate distance to nearest occupied
 |	Site    | Year      | Datasheet | Database      |
 |-----------|-----------|-----------|--------|
 |	101		|	13		|unoccupied |	PEFA		|
-|	141		|	17		|RLHA       |   PEFA        |
+|	141		|	17		|RLHA     (updated in some data sheets)  |   PEFA   |
 |	374		|	12		|RLHA       |	PEFA        |
 |	71		|	15		|RLHA	    |	PEFA        |
 
