@@ -60,4 +60,6 @@ Issues with the following sites / years - changes were made to the occupancy dat
 ##### 2015
 * changed 71 from unoccupied to PEFA
 
+Number of of sites with pefa and rlha line up with the report now. I can't get the number of sites "not checked" and the number of sites with "no detections" to line up. I suspect this is because I'm not account for sites that were occupied by species other than pefa and rlha. I'll investigate that tomorrow.
+
 
