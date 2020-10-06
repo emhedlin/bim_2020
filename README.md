@@ -12,6 +12,7 @@ Work for the 2020 BIM report
 │     └── 2020_survey.csv       <- data from 2020
 └── scripts
 │     ├── 01_data_cleaning.R    <- combining data from last year's sheets with this years surveys
+│     │                              * alsp verifying counts across datasheets and reports
 │     ├── 02_dnon.R             <- distance to nearest occupied neighbour
 │     ├── 03_dist_disturb.R     <- distance to disturbance
 
