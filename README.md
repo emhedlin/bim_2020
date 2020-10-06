@@ -29,6 +29,11 @@ I've improved scripts from last year that calculate distance to nearest occupied
 * joined tables and filtered the values to show differences
 
 ### October 6
+
+The numbers in the report's summary table are taken from the database, but the analysis is done using the datasheet. This year, I'm hoping to use the data sheet for both. I'll check the comments in the database to see if I can find clarification on these issues, but if I can't, I'll use the database as the truth. Changes to the datasheet will be completed on the ```data/2012-2019_report.csv``` sheet. See last year's datasheet for historical values.
+
+Discrepancies between datasheets and reports need to be solved before I can work on territory delineation.
+
 Issues with the following sites / years - changes were made to the occupancy datasheet based on values in the database.
 ##### 2012
 * 55 - changed to pefa on v1
@@ -55,6 +60,4 @@ Issues with the following sites / years - changes were made to the occupancy dat
 ##### 2015
 * changed 71 from unoccupied to PEFA
 
-The numbers in the report's summary table are taken from the database, but the analysis is done using the datasheet. This year, I'm hoping to use the data sheet for both. I'll check the comments in the database to see if I can find clarification on these issues, but if I can't, I'll use the database as the truth. Changes to the datasheet will be completed on the ```data/2012-2019_report.csv``` sheet. See last year's datasheet for historical values.
 
-Discrepancies between datasheets and reports need to be solved before I can work on territory delineation.
