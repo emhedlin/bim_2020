@@ -36,15 +36,15 @@ I've improved scripts from last year that calculate distance to nearest occupied
 |	71		|	15		|RLHA	    |	PEFA        |
 
 More issues with the following sites / years
-*2012*
+##### 2012
 "7"   "9"   "15"  "49"  "55"  "63"  "81"  "91"  "374"
 
-*2013*
+##### 2013
 "101"
 
-*2015*
- [1] "8"   "17"  "18"  "34"  "80"  "122" "141" "357" "360" "391" "442" "444"
-[13] "445" "447" "448" "450" "464" "465" "470" "472" "474" "476" "478"
+##### 2015
+"8"   "17"  "18"  "34"  "80"  "122" "141" "357" "360" "391" "442" "444"
+"445" "447" "448" "450" "464" "465" "470" "472" "474" "476" "478"
 
 The numbers in the report's summary table are taken from the database, but the analysis is done using the datasheet. This year, I'm hoping to use the data sheet for both. I'll check the comments in the database to see if I can find clarification on these issues, but if I can't, I'll use the database as the truth. Changes to the datasheet will be completed on the ```data/2012-2019_report.csv``` sheet. See last year's datasheet for historical values.
 
