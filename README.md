@@ -28,16 +28,15 @@ I've improved scripts from last year that calculate distance to nearest occupied
 * Summarized the datasheet used in last year's report in the same way
 * joined tables and filtered the values to show differences
 
-|	Site    | Year      | Datasheet | Database      |
-|-----------|-----------|-----------|--------|
-|	101		|	13		|unoccupied |	PEFA		|
-|	141		|	17		|RLHA     (updated in some data sheets)  |   PEFA   |
-|	374		|	12		|RLHA       |	PEFA        |
-|	71		|	15		|RLHA	    |	PEFA        |
-
-More issues with the following sites / years
+Issues with the following sites / years - changes were made to the occupancy datasheet based on values in the database.
 ##### 2012
-"7"   "9"   "15"  "49"  "55"  "63"  "81"  "91"  "374"
+* 55 - changed to pefa on v1
+* 61 - changed from RLHA to not occupied based on database
+* 62 - changed to rlha on v1
+* 69 - changed to unoccupied based on database
+* 81 - added PEFA on v2 (seen perching on rock nearby)
+* 360 - changed from unoccupied to RLHA
+* 374 - changed to PEFA on v2
 
 ##### 2013
 "101"
