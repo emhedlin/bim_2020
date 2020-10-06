@@ -28,6 +28,7 @@ I've improved scripts from last year that calculate distance to nearest occupied
 * Summarized the datasheet used in last year's report in the same way
 * joined tables and filtered the values to show differences
 
+### October 6
 Issues with the following sites / years - changes were made to the occupancy datasheet based on values in the database.
 ##### 2012
 * 55 - changed to pefa on v1
