@@ -51,9 +51,9 @@ Issues with the following sites / years - changes were made to the occupancy dat
 * 392 - changed from unoccupied to RLHA on v1
 * 393 - changed from unoccupied to RLH Aon v1
 
+
 ##### 2015
-"8"   "17"  "18"  "34"  "80"  "122" "141" "357" "360" "391" "442" "444"
-"445" "447" "448" "450" "464" "465" "470" "472" "474" "476" "478"
+* changed 71 from unoccupied to PEFA
 
 The numbers in the report's summary table are taken from the database, but the analysis is done using the datasheet. This year, I'm hoping to use the data sheet for both. I'll check the comments in the database to see if I can find clarification on these issues, but if I can't, I'll use the database as the truth. Changes to the datasheet will be completed on the ```data/2012-2019_report.csv``` sheet. See last year's datasheet for historical values.
 
