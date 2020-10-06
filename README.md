@@ -45,6 +45,12 @@ Issues with the following sites / years - changes were made to the occupancy dat
 * 50 - changed from PEFA to unoccupied based on database
 * 101 - changed from unoccupied to PEFA based on database
 
+##### 2014
+* 61 - changed from unoccupied to RLHA on v2
+* 80 - changed from unoccupied to RLHA on v1
+* 392 - changed from unoccupied to RLHA on v1
+* 393 - changed from unoccupied to RLH Aon v1
+
 ##### 2015
 "8"   "17"  "18"  "34"  "80"  "122" "141" "357" "360" "391" "442" "444"
 "445" "447" "448" "450" "464" "465" "470" "472" "474" "476" "478"
