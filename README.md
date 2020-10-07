@@ -68,4 +68,5 @@ Number of of sites with pefa and rlha line up with the report now. I can't get t
 
 * Ignoring differences in unoccupied territories (there are lots) between data sheets and the report. The report incorporates PDA = 3, whereas the datasheets don't.
 * calculated distance to nearest occupied neighbour data
-
+* created csv for mapping yearly occupancy in pefa/rlha
+* started script for territory delineation
