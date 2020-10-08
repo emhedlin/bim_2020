@@ -11,6 +11,8 @@ Work for the 2020 BIM report
 │     ├── 2019_BIM_db.csv       <- alastair's BIM database, central location for data
 │     ├── dnon.csv              <- distance to nearest neighobour, long format, generated from dnon.R
 │     ├── yearly_site_occ.csv   <- for mapping. Yearly summary for each site wrt pefa/rlha occupancy
+│     ├── pefa_territory.csv    <- list of pefa sites, coordinates, and territory centroid coordinates
+│     ├── rlha_territory.csv    <- list of rlha sites, coordinates, and territory centroid coordinates
 │     └── 2020_survey.csv       <- data from 2020
 └── scripts
 │     ├── 01_data_cleaning.R    <- combining data from last year's sheets with this years surveys
