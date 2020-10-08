@@ -72,4 +72,4 @@ Number of of sites with pefa and rlha line up with the report now. I can't get t
 * started script for territory delineation
 
 ### October 8
-* completed script to programmatically search for territories that are occupied by multiple pairs in a given year.
+* completed script to programmatically search for territories that are occupied by multiple pairs in a given year, and assign new territory IDs
