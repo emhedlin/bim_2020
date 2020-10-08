@@ -70,3 +70,6 @@ Number of of sites with pefa and rlha line up with the report now. I can't get t
 * calculated distance to nearest occupied neighbour data
 * created csv for mapping yearly occupancy in pefa/rlha
 * started script for territory delineation
+
+### October 8
+* completed script to programmatically search for territories that are occupied by multiple pairs in a given year.
