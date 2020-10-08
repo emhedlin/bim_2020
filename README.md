@@ -17,6 +17,7 @@ Work for the 2020 BIM report
 │     │                              * also verifying counts across datasheets and reports
 │     ├── 02_dnon.R             <- distance to nearest occupied neighbour
 │     ├── 03_dist_disturb.R     <- distance to disturbance
+│     ├── 04_territory.R        <- clustering, and solve territory conflicts
 
 ```
 
