@@ -15,12 +15,13 @@ Work for the 2020 BIM report
 │     ├── rlha_territory.csv    <- list of rlha sites, coordinates, and territory centroid coordinates
 │     └── 2020_survey.csv       <- data from 2020
 └── scripts
-│     ├── 01_data_cleaning.R    <- combining data from last year's sheets with this years surveys
-│     │                              * also verifying counts across datasheets and reports
-│     ├── 02_dnon.R             <- distance to nearest occupied neighbour
-│     ├── 03_dist_disturb.R     <- distance to disturbance
-│     ├── 04_territory.R        <- clustering, and solve territory conflicts
-
+      ├── 01_data_cleaning.R    <- combining data from last year's sheets with this years surveys
+      │                              * also verifying counts across datasheets and reports
+      ├── 02_dnon.R             <- distance to nearest occupied neighbour
+      ├── 03_dist_disturb.R     <- distance to disturbance
+      ├── 04_territory.R        <- clustering, and solve territory conflicts
+      ├── 05_occupancy.R        <- occupancy analysis
+      └── 06_breeding.R         <- occupancy analysis
 ```
 
 ## Status
