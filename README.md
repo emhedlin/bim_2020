@@ -20,8 +20,8 @@ Work for the 2020 BIM report
       ├── 02_dnon.R             <- distance to nearest occupied neighbour
       ├── 03_dist_disturb.R     <- distance to disturbance
       ├── 04_territory.R        <- clustering, and solve territory conflicts
-      ├── 05_occupancy.R        <- occupancy analysis
-      └── 06_breeding.R         <- occupancy analysis
+      ├── 05_occupancy.R        <- occupancy analysis - unmarked and Jags
+      └── 06_breeding.R         <- zero-truncated counts in INLA 
 ```
 
 ## Status
