@@ -16,7 +16,7 @@ Work for the 2020 BIM report
 │     ├── unique_rlha_territory.csv    <- unique territories, made for mapping purposes only
 │     ├── unique_pefa_territory.csv    <- unique territories, made for mapping purposes only
 │     └── 2020_survey.csv       <- data from 2020
-└── scripts
+└── scripts -> .gitignoring for now
       ├── 01_data_cleaning.R    <- combining data from last year's sheets with this years surveys
       │                              * also verifying counts across datasheets and reports
       ├── 02_dnon.R             <- distance to nearest occupied neighbour
@@ -30,7 +30,7 @@ Work for the 2020 BIM report
   <img width="400" src="https://github.com/emhedlin/bim_2020/blob/master/documents/pefa_terr.png">
   <img width="400" src="https://github.com/emhedlin/bim_2020/blob/master/documents/rlha_terr.png">
 </p>
-Updated territories for peregrines (left), and rough-legs (right), and occupied sites (points) for the year 2020. Maximum ndvi values from 2015 - 2020 are displayed as green as a base layer to show varying veg productivity in the study area.
+Updated territories for peregrines (left), and rough-legs (right), and occupied sites (points) for the year 2020. Territories are delineated with cluster analysis and euclidean distance, with a tree cut-off of 3500 meters. Maximum ndvi values from 2015 - 2020 are displayed as varying shades of green to show veg productivity in the study area.
 
 ## Status
 ### October 4
