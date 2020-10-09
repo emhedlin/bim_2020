@@ -13,6 +13,8 @@ Work for the 2020 BIM report
 │     ├── yearly_site_occ.csv   <- for mapping. Yearly summary for each site wrt pefa/rlha occupancy
 │     ├── pefa_territory.csv    <- list of pefa sites, coordinates, and territory centroid coordinates
 │     ├── rlha_territory.csv    <- list of rlha sites, coordinates, and territory centroid coordinates
+│     ├── unique_rlha_territory.csv    <- unique territories, made for mapping purposes only
+│     ├── unique_pefa_territory.csv    <- unique territories, made for mapping purposes only
 │     └── 2020_survey.csv       <- data from 2020
 └── scripts
       ├── 01_data_cleaning.R    <- combining data from last year's sheets with this years surveys
