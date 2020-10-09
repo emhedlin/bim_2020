@@ -26,6 +26,12 @@ Work for the 2020 BIM report
       └── 06_breeding.R         <- zero-truncated counts in INLA 
 ```
 
+<p align="center">
+  <img width="400" src="https://github.com/emhedlin/bim_2020/blob/master/documents/pefa_terr.png">
+  <img width="400" src="https://github.com/emhedlin/bim_2020/blob/master/documents/rlha_terr.png">
+</p>
+Updated territories for peregrines (left), and rough-legs (right), and occupied sites (points) for the year 2020. 
+
 ## Status
 ### October 4
 
