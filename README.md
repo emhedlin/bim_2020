@@ -99,8 +99,8 @@ Number of of sites with pefa and rlha line up with the report now. I can't get t
   <img width="950" src="https://github.com/emhedlin/bim_2020/blob/master/documents/territory_issue.jpg">
 </p>
 
-* based on work done in rankin, it's clear that adults sometimes breed around a central location. This results in spatial variation in nest site locations from year to year, and in many cases, such groups of nest sites can be considered as belonging to a single territory. Establishing hard boundaries that define these territories comes with assumptions however, and it may be best to explore nest site spatial dynamics among marked birds before accepting the assumptions. 
-* Maybe there's a better way than using territories. Maybe we define a grid, and use state space count models to investigate variation in nest site densities in each cell per year. That sounds like a better idea actually.
+* based on work done in rankin, it's clear that adults sometimes breed around a central location. This results in spatial variation in nest site locations from year to year, and in many cases, such groups of nest sites can be considered as belonging to a single territory. Establishing hard boundaries that define these territories comes with assumptions however, and it may be best to explore nest site spatial dynamics among marked birds before accepting these assumptions. 
+* Maybe there's a better way than using territories. Maybe we define a grid, and use state space count models to investigate variation in nest site densities in each cell per year.
 
 ### October 10
 * noticed that the report says territories were calculated using 1km tree cutoffs. Had to recalculate territories.
