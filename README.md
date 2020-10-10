@@ -86,3 +86,13 @@ Number of of sites with pefa and rlha line up with the report now. I can't get t
 ### October 8
 * completed script to programmatically search for territories that are occupied by multiple pairs in a given year, and to and assign new territory IDs to the extra territories.
 * exported csv's for territory locations to produce figures in qgis (see above maps)
+
+
+### October 9
+* started cleaning data for occupancy analysis, gathering covariates
+* see below for diagram of additional issues with using territories.
+
+
+<p align="center">
+  <img width="600" src="https://github.com/emhedlin/bim_2020/blob/master/documents/territory_issue.jpg">
+</p>
