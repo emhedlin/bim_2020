@@ -98,3 +98,6 @@ Number of of sites with pefa and rlha line up with the report now. I can't get t
 <p align="center">
   <img width="950" src="https://github.com/emhedlin/bim_2020/blob/master/documents/territory_issue.jpg">
 </p>
+
+### October 
+* noticed that the report says territories were calculated using 1km tree cutoffs. Had to recalculate territories.
