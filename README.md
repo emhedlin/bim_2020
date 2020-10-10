@@ -6,24 +6,26 @@ Work for the 2020 BIM report
 
 ```
 └── data
-│     ├── 2012-2019_report.csv  <- data used in 2019 report
-│     ├── 2012-2020_report.csv  <- 2020 data added to the 2019 report data
-│     ├── 2019_BIM_db.csv       <- alastair's BIM database, central location for data
-│     ├── dnon.csv              <- distance to nearest neighobour, long format, generated from dnon.R
-│     ├── yearly_site_occ.csv   <- for mapping. Yearly summary for each site wrt pefa/rlha occupancy
-│     ├── pefa_territory.csv    <- list of pefa sites, coordinates, and territory centroid coordinates
-│     ├── rlha_territory.csv    <- list of rlha sites, coordinates, and territory centroid coordinates
+│     ├── 2012-2019_report.csv         <- data used in 2019 report
+│     ├── 2012-2020_report.csv         <- 2020 data added to the 2019 report data
+│     ├── 2019_BIM_db.csv              <- alastair's BIM database, central location for data
+│     ├── dnon.csv                     <- distance to nearest neighobour, long format, generated from dnon.R
+│     ├── yearly_site_occ.csv          <- for mapping. Yearly summary for each site wrt pefa/rlha occupancy
+│     ├── pefa_territory.csv           <- list of pefa sites, coordinates, and territory centroid coordinates
+│     ├── rlha_territory.csv           <- list of rlha sites, coordinates, and territory centroid coordinates
+│     ├── pefa_territory_1km.csv       <- pefa territories using 1km tree cutoff
+│     ├── rlha_territory_1km.csv       <- pefa territories using 1km tree cutoff
 │     ├── unique_rlha_territory.csv    <- unique territories, made for mapping purposes only
 │     ├── unique_pefa_territory.csv    <- unique territories, made for mapping purposes only
-│     └── 2020_survey.csv       <- data from 2020
+│     └── 2020_survey.csv              <- data from 2020
 └── scripts -> .gitignoring for now
-      ├── 01_data_cleaning.R    <- combining data from last year's sheets with this years surveys
-      │                              * also verifying counts across datasheets and reports
-      ├── 02_dnon.R             <- distance to nearest occupied neighbour
-      ├── 03_dist_disturb.R     <- distance to disturbance
-      ├── 04_territory.R        <- clustering, and solve territory conflicts
-      ├── 05_occupancy.R        <- occupancy analysis - unmarked and Jags
-      └── 06_breeding.R         <- zero-truncated counts in INLA 
+      ├── 01_data_cleaning.R           <- combining data from last year's sheets with this years surveys
+      │                                     * also verifying counts across datasheets and reports
+      ├── 02_dnon.R                    <- distance to nearest occupied neighbour
+      ├── 03_dist_disturb.R            <- distance to disturbance
+      ├── 04_territory.R               <- clustering, and solve territory conflicts
+      ├── 05_occupancy.R               <- occupancy analysis - unmarked and Jags
+      └── 06_breeding.R                <- zero-truncated counts in INLA 
 ```
 
 <p align="center">
