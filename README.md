@@ -94,5 +94,5 @@ Number of of sites with pefa and rlha line up with the report now. I can't get t
 
 
 <p align="center">
-  <img width="800" src="https://github.com/emhedlin/bim_2020/blob/master/documents/territory_issue.jpg">
+  <img width="950" src="https://github.com/emhedlin/bim_2020/blob/master/documents/territory_issue.jpg">
 </p>
