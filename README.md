@@ -104,3 +104,5 @@ Number of of sites with pefa and rlha line up with the report now. I can't get t
 
 ### October 10
 * noticed that the report says territories were calculated using 1km tree cutoffs. Had to recalculate territories.
+
+### October 11
