@@ -38,7 +38,7 @@ Updated territories for peregrines (left), and rough-legs (right), and occupied 
   <img width="400" src="https://github.com/emhedlin/bim_2020/blob/master/documents/pefa_sum_occ.png">
   <img width="400" src="https://github.com/emhedlin/bim_2020/blob/master/documents/rlha_sum_occ.png">
 </p>
-To get investigate spatial patterns in occupancy, all nest sites were plotted for both species with a point size dependant on the number of years each site had been occupied. PEFA have remained consistent roughly half of the sites occupied each year, where RLHA cycle heavily (see below).
+To investigate spatial patterns in occupancy, all nest sites were plotted for both species with a point size dependant on the number of years the site was occupied. PEFA have remained consistent since 2012, and have occupied roughly half of the sites each year. RLHAs have cycled heavily (see below), and have therefore occupied fewer sites overall.
 
 <p align="center">
   <img width="400" src="https://github.com/emhedlin/bim_2020/blob/master/documents/pefa_PAO.jpg">
