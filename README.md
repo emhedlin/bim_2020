@@ -46,8 +46,7 @@ To investigate spatial patterns in occupancy, all nest sites were plotted for bo
 </p>
 Occupancy dynamics corrected for detection error. Both species remain stable, with a high amount of variation in RLHA's (as to be expected).
 
-
-* see below for diagram of additional issues with using territories.
+### Territory issues
 
 
 <p align="center">
