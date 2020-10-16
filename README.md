@@ -40,6 +40,13 @@ Updated territories for peregrines (left), and rough-legs (right), and occupied 
 </p>
 Point size reflects the total number of years (2012-2020) that sites were occupied by PEFA (left), and RLHA (right).
 
+<p align="center">
+  <img width="400" src="https://github.com/emhedlin/bim_2020/blob/master/documents/pefa_PAO.jpg">
+  <img width="400" src="https://github.com/emhedlin/bim_2020/blob/master/documents/RLHA_PAO.jpg">
+</p>
+Occupancy dynamics corrected for detection error. Both species remain stable, with a high amount of variation in RLHA's (as to be expected).
+
+
 ## Status
 ### October 4
 
