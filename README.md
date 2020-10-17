@@ -64,7 +64,7 @@ To investigate spatial patterns in occupancy, all nest sites were plotted for bo
   <img width="400" src="https://github.com/emhedlin/bim_2020/blob/master/documents/pefa_PAO.jpg">
   <img width="400" src="https://github.com/emhedlin/bim_2020/blob/master/documents/RLHA_PAO.jpg">
 </p>
-Occupancy dynamics corrected for detection error. Both species remain stable, with a high amount of variation in RLHA's (as to be expected).
+Occupancy dynamics corrected for detection error. Both species remain stable, with a high amount of variation in RLHA's (as is expected).
 
 
 
