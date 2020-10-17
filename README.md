@@ -1,6 +1,13 @@
 Work for the 2020 BIM report
 ================
 
+This repo contains all of the analytical components for 2020 BIM report. High level summary of the workflow includes:
+* data cleaning
+* calculating the distance between all sites and the nearest occupied nest site
+* distance between all sites and nearest anthropogenic disturbance
+* hierarchical clustering of individual nest sites into territory clumps
+* dynamic occupancy modeling - unmarked and Jags scripts included
+* zero-truncated poisson spatial models for breeding productivity
 
 ### File structure
 
