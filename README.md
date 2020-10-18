@@ -52,10 +52,10 @@ Updated territories for peregrines (left), and rough-legs (right), and occupied 
 
 ## Occupancy results
 
-To investigate spatial patterns in occupancy, all nest sites were plotted for both species with a point size dependant on the number of years the site was occupied. PEFA have remained consistent since 2012, and have occupied roughly half of the sites each year. RLHAs have cycled heavily (see below), and have therefore occupied fewer sites overall.
+Logistic regression with a matern correlation spatial structure was used to examine patterns in yearly breeding success. For PEFA, a model with estimated correlation out performed those without, and the best spatial structure is one that is static through all years. We conclude that there is some unknown spatial covariate that may be driving breeding success, and the result pattern doesn't vary from year to year.
 
 <p align="center">
-  <img width="400" src="https://github.com/emhedlin/bim_2020/blob/master/documents/pefa_sum_occ.png">
+  <img width="400" src="https://github.com/emhedlin/bim_2020/blob/master/documents/pefa_spatial_pattern.png">
   <img width="400" src="https://github.com/emhedlin/bim_2020/blob/master/documents/rlha_sum_occ.png">
 </p>
 
