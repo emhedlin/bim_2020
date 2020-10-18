@@ -56,6 +56,7 @@ Given a site was occupied, we modeled the chance that each site successfully rea
 * the pattern remains the same across all years
 * the pattern changes entirely from year to year
 * the pattern changes from year to year with temporal correlation of one step (AR1)
+
 For Peregrines, the model that performed the best included a spatial pattern that was fixed across all years (below left).
 
 <p align="center">
