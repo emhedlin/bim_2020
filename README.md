@@ -52,7 +52,7 @@ Updated territories for peregrines (left), and rough-legs (right), and occupied 
 
 ## Occupancy results
 
-Logistic regression with and without matern correlation spatial structure was used to examine patterns in yearly breeding success. For PEFA, a model with estimated correlation out performed those without, and the best spatial structure was static through all years. We conclude that there is some unknown spatial covariate that may be driving breeding success, and the resulting pattern doesn't vary from year to year.
+Given a site was occupied, we modeled the chance that each site successfully reared young using mixed logistic models. We examined potential spatial patterns in breeding success by estimating correlations across a spatial matern mesh with INLA. Since this data is in essence a timeseries, we also modeled the spatial pattern with AR1 structure. Adding a spatial structure for pefa improved model fit, but there was no evidence for an autoregressive nature to the spatial structure. See below for the spatial pattern.
 
 <p align="center">
   <img width="400" src="https://github.com/emhedlin/bim_2020/blob/master/documents/pefa_spatial_pattern.png">
