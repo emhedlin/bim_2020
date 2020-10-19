@@ -50,7 +50,7 @@ Updated territories for peregrines (left), and rough-legs (right), and occupied 
 
 
 
-## Occupancy results
+## Breeding Success
 
 Given a site was occupied, we modeled the chance that each site successfully reared young using mixed logistic models. We examined potential spatial patterns in breeding success by estimating correlations across a spatial matern mesh with INLA (first image). Three types of spatial patterns were estimated:
 * the pattern remains the same across all years
@@ -70,12 +70,14 @@ For Peregrines, the model that performed the best included a spatial pattern tha
 </p>
 
 
+## Occupancy
+Occupancy dynamics corrected for detection error. Both species remain stable, with a high amount of variation in RLHA's (as is expected).
+
+
 <p align="center">
   <img width="400" src="https://github.com/emhedlin/bim_2020/blob/master/documents/pefa_PAO.jpg">
   <img width="400" src="https://github.com/emhedlin/bim_2020/blob/master/documents/RLHA_PAO.jpg">
 </p>
-Occupancy dynamics corrected for detection error. Both species remain stable, with a high amount of variation in RLHA's (as is expected).
-
 
 
 
