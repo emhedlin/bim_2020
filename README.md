@@ -91,7 +91,7 @@ RLHA
 
 ## Breeding Success
 
-Given a site was occupied, we modeled the chance that each site successfully reared young using mixed logistic models. We examined potential spatial patterns in breeding success by estimating correlations across a spatial matern mesh with INLA (first image). Three types of spatial patterns were estimated:
+Given a site was occupied, we modeled the chance that each site successfully reared young using mixed logistic models. We examined potential spatial patterns in breeding success via matern covariance. Three types of spatial patterns were estimated:
 * the pattern remains the same across all years
 * the pattern changes with each year (iid)
 * the pattern changes from year to year with temporal correlation of one step (AR1)
