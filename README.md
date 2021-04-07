@@ -47,47 +47,6 @@ The code is correct in separating these territories based on the rules outlined 
 #### Territory manual checks
 Territories below were flagged
 
-%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-PEFA
-
-25  - 18 - * male flushed on first survey, no detections on following survey
-475 - 18 - * nest failed, no confirmation of eggs
-
-481 - 19 
-
-338 - 18 - * detected on 3rd survey, 2 young
-59  - 18 - * no confirmation of eggs
-
-359 - 19   * keep together
-380 - 19
-
-485 - 18 - no eggs confirmed
-86  - 18 - 3 young.
-
-%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-RLHA
-
-359 - 2015
-460 - 2015 - no eggs at 460, don't split this site up
-
-86 - 2015 - eggs at both sites, split up
-88 - 2015
-
-48 - 2012 - no eggs, don't split this territory up
-51 - 2012
-
-466 - 2015 - eggs at both sites, split
-477
-
-359 2015
-460 2015 - no eggs at this site, don't split
-
-21  2012 - eggs at both, split these sites
-360 2012
-
-
-
-
 
 ## Breeding Success
 
