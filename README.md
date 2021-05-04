@@ -38,7 +38,7 @@ This repo contains all of the analytical components for 2020 BIM report. High le
 Notes for 2021.
 
 * 2019 report indicated 76 pefa territories and 71 rlha territories.
-* In 2020, code to check for occupancy among > 1 nest sites in each territory, which would split territories, was added in ```04_territory.R`` 
+* In 2020, code to check for occupancy among > 1 nest sites in each territory, which would split territories, was added in ```04_territory.R``` 
 * this resulted in 84 pefa and 87 rlha
 * seemed like a large increase from 2019 so we're manually checking.
 
