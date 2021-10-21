@@ -44,9 +44,6 @@ Notes for 2021.
 
 The code is correct in separating these territories based on the rules outlined in 2019. However, we're updating the rules to be more discriminatory. According to the new rules, if two sites are occupied by the same species, are within 1 km, and produce eggs, then the territory should be split up. 
 
-#### Territory manual checks
-Territories below were flagged
-
 
 ## Breeding Success
 
